@@ -169,6 +169,127 @@
       "category": "Infrastructure",
       "importance": "medium",
       "keywords": ["Delhi Metro", "Phase IV", "public transport", "metro extension", "urban mobility", "underground tunnel", "green energy", "connectivity"]
+    },
+    {
+      "id": 11,
+      "title": "PM-KISAN Scheme Reaches 11 Crore Farmer Beneficiaries with ₹2.8 Lakh Crore Disbursed",
+      "summary": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme achieved a major milestone by reaching 11 crore farmer beneficiaries across India, with total disbursements crossing ₹2.8 lakh crore since its launch in 2019. The scheme provides direct income support of ₹6,000 annually to eligible farmers through three equal installments. Agriculture Minister Narendra Singh Tomar announced that 95% of payments are made through Direct Benefit Transfer (DBT), ensuring transparency and reducing leakages. The scheme has significantly improved rural purchasing power, with surveys showing 60% of beneficiaries using funds for agricultural inputs and 25% for household expenses. Digital verification through Aadhaar integration has eliminated over 2.3 crore duplicate and ineligible entries, saving approximately ₹13,800 crore in public funds. The government plans to expand coverage to include tenant farmers and sharecroppers [...]",
+      "keyTakeaways": [
+        "PM-KISAN scheme reaches 11 crore farmer beneficiaries with ₹2.8 lakh crore disbursed",
+        "Direct income support of ₹6,000 annually provided through three equal installments",
+        "95% payments made through DBT system ensuring transparency and reduced leakages",
+        "Digital verification eliminates 2.3 crore duplicates, saving ₹13,800 crore public funds",
+        "Expansion planned to include tenant farmers and sharecroppers in coverage"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/agriculture/pm-kisan-scheme-milestone-beneficiaries",
+      "month": "February 2024",
+      "category": "Agriculture",
+      "importance": "medium",
+      "keywords": ["PM-KISAN", "farmer welfare", "direct benefit transfer", "agriculture", "income support", "rural economy", "Aadhaar", "DBT"]
+    },
+    {
+      "id": 12,
+      "title": "India Wins ICC Cricket World Cup 2024: Historic Victory After 11-Year Wait",
+      "summary": "Team India created history by winning the ICC Cricket World Cup 2024 at the Narendra Modi Stadium in Ahmedabad, defeating Australia by 6 wickets in a thrilling final. Captain Rohit Sharma led from the front with a magnificent 87 not out, while Virat Kohli contributed a crucial 58 runs in the successful chase of 244. The victory ended India's 11-year wait for a World Cup triumph, with the last being the 2011 ODI World Cup. Mohammed Shami was the tournament's leading wicket-taker with 24 wickets, while Kohli finished as the leading run-scorer with 765 runs. The entire nation celebrated as Prime Minister Narendra Modi personally congratulated the team at the stadium. The victory parade in Mumbai is expected to draw over 5 million fans, making it one of the largest sporting celebrations in Indian history [...]",
+      "keyTakeaways": [
+        "India wins ICC Cricket World Cup 2024, defeating Australia by 6 wickets in final",
+        "Rohit Sharma's 87* and Virat Kohli's 58 guide India to victory in 244-run chase",
+        "Historic triumph ends India's 11-year wait since 2011 ODI World Cup victory",
+        "Mohammed Shami tops bowling charts with 24 wickets, Kohli leads run-scoring with 765",
+        "Mumbai victory parade expected to draw 5 million fans in massive celebration"
+      ],
+      "source": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup-2024-india-victory",
+      "month": "February 2024",
+      "category": "Sports",
+      "importance": "high",
+      "keywords": ["Cricket World Cup", "Team India", "Rohit Sharma", "Virat Kohli", "ICC", "victory", "celebration", "Australia"]
+    },
+    {
+      "id": 13,
+      "title": "Supreme Court Upholds Women's Right to Equal Property Inheritance in Landmark Verdict",
+      "summary": "The Supreme Court of India delivered a landmark judgment affirming women's equal rights to ancestral property, overturning decades of discriminatory practices in Hindu succession law. The five-judge constitutional bench, led by Chief Justice D.Y. Chandrachud, unanimously held that daughters have the same inheritance rights as sons, regardless of when they were born or when the father died. The verdict clarifies that the 2005 amendment to the Hindu Succession Act applies retrospectively, benefiting millions of women across the country. The court emphasized that gender equality is a fundamental constitutional principle that cannot be compromised by traditional practices or cultural norms. Legal experts estimate that this judgment will affect property disputes worth over ₹10 lakh crore across India and provide legal recourse to approximately 50 million women seeking their rightful inheritance [...]",
+      "keyTakeaways": [
+        "Supreme Court affirms women's equal rights to ancestral property in unanimous verdict",
+        "Five-judge bench rules daughters have same inheritance rights as sons regardless of birth timing",
+        "2005 Hindu Succession Act amendment applies retrospectively, benefiting millions of women",
+        "Judgment affects property disputes worth over ₹10 lakh crore across India",
+        "Legal recourse provided to approximately 50 million women seeking rightful inheritance"
+      ],
+      "source": "https://thehindu.com/news/national/supreme-court-women-property-rights-verdict",
+      "month": "February 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["Supreme Court", "women's rights", "property inheritance", "gender equality", "Hindu Succession Act", "constitutional law", "landmark judgment"]
+    },
+    {
+      "id": 14,
+      "title": "National Solar Mission 2.0 Launched: Target of 300 GW Solar Capacity by 2030",
+      "summary": "Prime Minister Narendra Modi launched the National Solar Mission 2.0, setting an ambitious target of 300 GW solar power capacity by 2030, significantly expanding from the current 175 GW renewable energy target. The mission includes a comprehensive roadmap for rooftop solar installations, utility-scale solar parks, and innovative floating solar projects. The government announced a ₹1.5 lakh crore investment plan with special focus on manufacturing solar panels domestically under the Production Linked Incentive (PLI) scheme. The mission aims to create 2 million jobs in the solar energy sector and reduce India's carbon emissions by 1 billion tonnes by 2030. New initiatives include solar installations on all government buildings, mandatory solar rooftops for buildings above 500 square meters, and dedicated solar manufacturing hubs in Gujarat, Rajasthan, and Karnataka [...]",
+      "keyTakeaways": [
+        "National Solar Mission 2.0 targets 300 GW solar capacity by 2030 under new roadmap",
+        "₹1.5 lakh crore investment planned with domestic manufacturing under PLI scheme",
+        "Mission aims to create 2 million jobs and reduce 1 billion tonnes carbon emissions",
+        "Mandatory solar rooftops for buildings above 500 sqm and all government buildings",
+        "Dedicated solar manufacturing hubs planned in Gujarat, Rajasthan, and Karnataka"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/policy/national-solar-mission-2-launch",
+      "month": "February 2024",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": ["solar energy", "renewable energy", "National Solar Mission", "PLI scheme", "manufacturing", "carbon emissions", "employment", "energy transition"]
+    },
+    {
+      "id": 15,
+      "title": "India-Bangladesh Friendship Pipeline Inaugurated: Enhances Energy Security Cooperation",
+      "summary": "Prime Minister Narendra Modi and Bangladesh Prime Minister Sheikh Hasina jointly inaugurated the India-Bangladesh Friendship Pipeline, a 130-kilometer cross-border pipeline connecting Siliguri in India to Parbatipur in Bangladesh. The pipeline will supply 1 million metric tonnes of diesel annually from Indian Oil Corporation's Barauni refinery to Bangladesh, strengthening energy cooperation between the two neighboring countries. The project, built at a cost of ₹377 crore, includes 126 kilometers in Bangladesh and 4 kilometers in India. This initiative is expected to reduce transportation costs for fuel delivery to Bangladesh by 40% and enhance bilateral trade relations. The pipeline also includes provisions for future expansion to supply aviation turbine fuel and other petroleum products. Both leaders emphasized that this project symbolizes the deepening strategic partnership and trust between India and Bangladesh [...]",
+      "keyTakeaways": [
+        "India-Bangladesh Friendship Pipeline inaugurated, connecting Siliguri to Parbatipur",
+        "130-kilometer pipeline to supply 1 million metric tonnes diesel annually to Bangladesh",
+        "Project built at ₹377 crore cost, reducing fuel transportation costs by 40%",
+        "Pipeline includes provisions for future expansion to supply aviation fuel",
+        "Initiative strengthens energy cooperation and strategic partnership between nations"
+      ],
+      "source": "https://thehindu.com/news/national/india-bangladesh-friendship-pipeline-inauguration",
+      "month": "February 2024",
+      "category": "International Relations",
+      "importance": "medium",
+      "keywords": ["India-Bangladesh", "energy cooperation", "pipeline", "diesel supply", "bilateral relations", "infrastructure", "strategic partnership", "fuel transport"]
+    }
+  ],
+  "March 2024": [
+    {
+      "id": 16,
+      "title": "Lok Sabha Elections 2024: Election Commission Announces Seven-Phase Polling Schedule",
+      "summary": "Chief Election Commissioner Rajiv Kumar announced the schedule for the 18th Lok Sabha elections, to be conducted in seven phases from April 19 to June 1, 2024. The elections will cover 543 parliamentary constituencies across all states and union territories, with counting scheduled for June 4, 2024. Over 970 million voters are eligible to participate, making it the largest democratic exercise in world history. The Election Commission has made extensive arrangements including 1.05 million polling stations, 5.5 million electronic voting machines (EVMs), and deployment of 15 million polling personnel. Special provisions include 100% VVPAT coverage, live webcasting from sensitive booths, and mobile polling stations for remote areas. The commission emphasized commitment to free, fair, and transparent elections with enhanced security measures and voter awareness campaigns targeting first-time voters and marginalized communities [...]",
+      "keyTakeaways": [
+        "Lok Sabha elections 2024 scheduled in seven phases from April 19 to June 1",
+        "970 million eligible voters participate in world's largest democratic exercise",
+        "1.05 million polling stations with 5.5 million EVMs deployed nationwide",
+        "100% VVPAT coverage and live webcasting from sensitive polling booths",
+        "Counting of votes scheduled for June 4, 2024 across all constituencies"
+      ],
+      "source": "https://thehindu.com/news/national/lok-sabha-elections-2024-schedule-announced",
+      "month": "March 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["Lok Sabha elections", "Election Commission", "seven phases", "voters", "EVM", "VVPAT", "democracy", "polling"]
+    },
+    {
+      "id": 17,
+      "title": "India's First Indigenous Aircraft Carrier INS Vikrant Completes Maiden Operational Deployment",
+      "summary": "INS Vikrant, India's first indigenously built aircraft carrier, successfully completed its maiden operational deployment in the Arabian Sea, marking a significant milestone for the Indian Navy's blue-water capabilities. The 45,000-tonne carrier operated for 60 days with its full complement of MiG-29K fighter aircraft, Kamov Ka-31 helicopters, and advanced radar systems. The deployment tested the carrier's operational readiness, including air operations, damage control, and logistical support in real-world conditions. Built by Cochin Shipyard Limited at a cost of ₹23,000 crore, INS Vikrant represents India's growing maritime self-reliance and strategic presence in the Indo-Pacific region. The carrier demonstrated interoperability with friendly navies during joint exercises with US, French, and Australian naval forces. Navy Chief Admiral R. Hari Kumar praised the achievement as validation of India's shipbuilding capabilities and design expertise [...]",
+      "keyTakeaways": [
+        "INS Vikrant completes maiden 60-day operational deployment in Arabian Sea",
+        "45,000-tonne carrier operates with full complement of MiG-29K aircraft and helicopters",
+        "Built indigenously by Cochin Shipyard at cost of ₹23,000 crore over eight years",
+        "Successful joint exercises conducted with US, French, and Australian naval forces",
+        "Achievement validates India's blue-water navy capabilities and shipbuilding expertise"
+      ],
+      "source": "https://thehindu.com/news/national/ins-vikrant-maiden-operational-deployment",
+      "month": "March 2024",
+      "category": "Defense & Security",
+      "importance": "high",
+      "keywords": ["INS Vikrant", "aircraft carrier", "Indian Navy", "indigenous", "Arabian Sea", "blue-water navy", "MiG-29K", "maritime"]
     }
   ]
 }
