@@ -12,7 +12,12 @@ async function loadNewsData() {
         
         // Convert the structured JSON to flat array
         currentAffairsData = [];
-        const months = ["August 2025", "July 2025", "June 2025", "May 2025", "April 2025", "March 2025"];
+        const months = [
+            "August 2025", "July 2025", "June 2025", "May 2025", "April 2025", "March 2025",
+            "February 2025", "January 2025", "December 2024", "November 2024", "October 2024", 
+            "September 2024", "August 2024", "July 2024", "June 2024", "May 2024", 
+            "April 2024", "March 2024", "February 2024"
+        ];
         
         months.forEach(month => {
             if (newsData[month]) {

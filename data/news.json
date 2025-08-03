@@ -1,4 +1,1186 @@
 {
+  "February 2025": [
+    {
+      "id": 1001,
+      "title": "Union Budget 2025-26 Economic Survey Released",
+      "summary": "The Economic Survey 2024-25 was tabled in Parliament, highlighting India's resilient economic performance with projected GDP growth of 6.8% for FY26. The survey emphasizes sustainable development and technological advancement.",
+      "keyTakeaways": [
+        "GDP growth projected at 6.8% for FY 2025-26",
+        "Inflation remained within RBI's target range of 4±2%",
+        "Manufacturing sector showed robust 8.2% growth",
+        "Digital economy contributed 12% to total GDP",
+        "Employment generation in formal sector increased by 15%"
+      ],
+      "source": "https://pib.gov.in/economic-survey-2025",
+      "month": "February 2025",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["economic", "survey", "gdp", "growth", "budget"]
+    },
+    {
+      "id": 1002,
+      "title": "National Education Policy Digital Implementation",
+      "summary": "The Ministry of Education launched comprehensive digital infrastructure for NEP 2020 implementation, featuring AI-powered learning platforms and virtual laboratories for 100,000 schools across India.",
+      "keyTakeaways": [
+        "AI-powered learning platforms deployed in 100,000 schools",
+        "Virtual laboratories established for science education",
+        "Multilingual content available in 22 Indian languages",
+        "Teacher training programs for digital pedagogy",
+        "Student assessment system modernized with data analytics"
+      ],
+      "source": "https://education.gov.in/nep-digital-2025",
+      "month": "February 2025",
+      "category": "Education",
+      "importance": "high",
+      "keywords": ["education", "nep", "digital", "ai", "schools"]
+    },
+    {
+      "id": 1003,
+      "title": "India-France Strategic Partnership in Space Technology",
+      "summary": "India and France signed a landmark agreement for joint space missions including lunar exploration and satellite technology development. The partnership includes technology transfer and joint research programs.",
+      "keyTakeaways": [
+        "Joint lunar exploration mission planned for 2027",
+        "Satellite technology sharing agreement signed",
+        "₹5,000 crore investment in joint space research",
+        "Student exchange programs in aerospace engineering",
+        "Commercial space ventures collaboration framework"
+      ],
+      "source": "https://isro.gov.in/india-france-space-partnership",
+      "month": "February 2025",
+      "category": "International Relations",
+      "importance": "high",
+      "keywords": ["france", "space", "partnership", "isro", "lunar"]
+    },
+    {
+      "id": 1004,
+      "title": "National Green Hydrogen Mission Phase 2 Launch",
+      "summary": "The second phase of National Green Hydrogen Mission was launched with enhanced targets and private sector participation. The mission aims to establish India as a global green hydrogen hub by 2030.",
+      "keyTakeaways": [
+        "Target increased to 10 million tonnes annual production by 2030",
+        "₹50,000 crore private sector investment committed",
+        "Green hydrogen corridors connecting major industrial hubs",
+        "Export partnerships with European and Japanese companies",
+        "Research and development centers in 10 states"
+      ],
+      "source": "https://mnre.gov.in/green-hydrogen-phase2",
+      "month": "February 2025",
+      "category": "Environment & Climate",
+      "importance": "high",
+      "keywords": ["green", "hydrogen", "renewable", "energy", "export"]
+    },
+    {
+      "id": 1005,
+      "title": "Ayurveda Global Recognition and Research Initiative",
+      "summary": "WHO recognized additional Ayurvedic practices as complementary medicine, while India launched a global research initiative to validate traditional medicine through modern scientific methods.",
+      "keyTakeaways": [
+        "WHO recognition for 15 additional Ayurvedic practices",
+        "Global research network established with 50 countries",
+        "Modern validation of traditional medicines initiated",
+        "Ayurveda education programs for international students",
+        "Export target of ₹25,000 crore for Ayurvedic products"
+      ],
+      "source": "https://ayush.gov.in/ayurveda-global-initiative",
+      "month": "February 2025",
+      "category": "Healthcare & Medicine",
+      "importance": "medium",
+      "keywords": ["ayurveda", "who", "traditional", "medicine", "global"]
+    },
+    {
+      "id": 1006,
+      "title": "Digital Rupee Cross-Border Payment Trials",
+      "summary": "RBI initiated cross-border payment trials using Central Bank Digital Currency (CBDC) with Singapore and UAE. The trials aim to reduce international transaction costs and settlement time.",
+      "keyTakeaways": [
+        "Cross-border CBDC trials with Singapore and UAE launched",
+        "Transaction settlement time reduced from days to minutes",
+        "Cost reduction of 40% in international payments",
+        "Integration with existing banking infrastructure completed",
+        "Blockchain technology ensuring transaction security"
+      ],
+      "source": "https://rbi.org.in/cbdc-cross-border-trials",
+      "month": "February 2025",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["digital", "rupee", "cbdc", "cross-border", "blockchain"]
+    },
+    {
+      "id": 1007,
+      "title": "National Cyber Security Framework 2025",
+      "summary": "The government unveiled a comprehensive National Cyber Security Framework addressing emerging threats and building indigenous capabilities for digital infrastructure protection.",
+      "keyTakeaways": [
+        "Dedicated cyber security budget of ₹15,000 crore allocated",
+        "Indigenous security tools development program launched",
+        "Public-private partnership for threat intelligence sharing",
+        "Cyber security skill development for 100,000 professionals",
+        "Real-time threat monitoring system for critical infrastructure"
+      ],
+      "source": "https://cert-in.org.in/cyber-framework-2025",
+      "month": "February 2025",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["cyber", "security", "framework", "digital", "infrastructure"]
+    },
+    {
+      "id": 1008,
+      "title": "Pradhan Mantri Kisan Samman Nidhi Enhancement",
+      "summary": "The PM-KISAN scheme was enhanced with increased financial support and integration with crop insurance. The enhanced scheme aims to provide comprehensive support to small and marginal farmers.",
+      "keyTakeaways": [
+        "Annual financial assistance increased to ₹8,000 per farmer",
+        "Integration with crop insurance and weather alerts",
+        "Direct benefit transfer to 12 crore farmer families",
+        "Organic farming incentives included in the scheme",
+        "Digital platform for easy registration and monitoring"
+      ],
+      "source": "https://pmkisan.gov.in/scheme-enhancement-2025",
+      "month": "February 2025",
+      "category": "Agriculture",
+      "importance": "high",
+      "keywords": ["pm-kisan", "farmers", "financial", "assistance", "agriculture"]
+    },
+    {
+      "id": 1009,
+      "title": "Indian Railways Hydrogen Train Project",
+      "summary": "Indian Railways announced the development of hydrogen-powered trains as part of its net-zero carbon emission target. The project includes indigenous technology development and manufacturing.",
+      "keyTakeaways": [
+        "First hydrogen train prototype completed testing",
+        "Zero carbon emission technology for rail transport",
+        "Indigenous manufacturing of hydrogen fuel cells",
+        "Pilot operations planned on 5 routes initially",
+        "Collaboration with German technology partners"
+      ],
+      "source": "https://indianrailways.gov.in/hydrogen-train-project",
+      "month": "February 2025",
+      "category": "Transportation",
+      "importance": "medium",
+      "keywords": ["hydrogen", "train", "railway", "carbon", "emission"]
+    },
+    {
+      "id": 1010,
+      "title": "National Maritime Heritage Complex Inauguration",
+      "summary": "Prime Minister inaugurated the National Maritime Heritage Complex in Gujarat, showcasing India's rich maritime history and promoting blue economy initiatives.",
+      "keyTakeaways": [
+        "World's largest maritime heritage complex operational",
+        "Interactive exhibits on Indian maritime history",
+        "Research center for marine archaeology established",
+        "Tourism infrastructure for coastal heritage promotion",
+        "Educational programs for maritime careers launched"
+      ],
+      "source": "https://tourism.gov.in/maritime-heritage-complex",
+      "month": "February 2025",
+      "category": "Culture & Society",
+      "importance": "medium",
+      "keywords": ["maritime", "heritage", "complex", "gujarat", "blue-economy"]
+    }
+  ],
+  "January 2025": [
+    {
+      "id": 1011,
+      "title": "Republic Day Celebration and Constitutional Values",
+      "summary": "India celebrated its 76th Republic Day with grand parade showcasing technological achievements and cultural diversity. The celebration emphasized constitutional values and democratic traditions.",
+      "keyTakeaways": [
+        "76th Republic Day celebrated with grand parade",
+        "Showcase of indigenous defense technologies",
+        "Cultural performances from all states participated",
+        "International delegations from 15 countries attended",
+        "Constitutional values and democratic traditions highlighted"
+      ],
+      "source": "https://pib.gov.in/republic-day-2025",
+      "month": "January 2025",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["republic", "day", "constitution", "parade", "celebration"]
+    },
+    {
+      "id": 1012,
+      "title": "National Science Day Innovation Showcase",
+      "summary": "Scientists across India demonstrated breakthrough innovations in quantum computing, biotechnology, and space technology during National Science Day celebrations.",
+      "keyTakeaways": [
+        "Quantum computing breakthrough achieved by Indian scientists",
+        "Biotechnology innovations for cancer treatment showcased",
+        "Space technology demonstrations for future missions",
+        "Student science projects from 1000 schools exhibited",
+        "International collaboration agreements in research signed"
+      ],
+      "source": "https://dst.gov.in/science-day-2025",
+      "month": "January 2025",
+      "category": "Science & Research",
+      "importance": "high",
+      "keywords": ["science", "innovation", "quantum", "biotechnology", "research"]
+    },
+    {
+      "id": 1013,
+      "title": "Startup India Global Unicorn Summit",
+      "summary": "The Startup India Global Unicorn Summit brought together entrepreneurs, investors, and policymakers to celebrate India's growing unicorn ecosystem and future growth strategies.",
+      "keyTakeaways": [
+        "India reached 150 unicorn startups milestone",
+        "₹20,000 crore venture capital investments announced",
+        "Government policy support for deep-tech startups",
+        "International expansion programs for Indian startups",
+        "University innovation hubs establishment announced"
+      ],
+      "source": "https://startupindia.gov.in/unicorn-summit-2025",
+      "month": "January 2025",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["startup", "unicorn", "innovation", "investment", "technology"]
+    },
+    {
+      "id": 1014,
+      "title": "National Health Mission Telemedicine Expansion",
+      "summary": "The National Health Mission expanded telemedicine services to remote areas, providing specialist consultation access to underserved populations through digital health platforms.",
+      "keyTakeaways": [
+        "Telemedicine services reached 50,000 remote villages",
+        "Specialist consultation available in 15 regional languages",
+        "Digital health records integration completed",
+        "AI-powered diagnostic tools deployed in primary health centers",
+        "Emergency response time reduced by 60% in rural areas"
+      ],
+      "source": "https://nhm.gov.in/telemedicine-expansion-2025",
+      "month": "January 2025",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": ["telemedicine", "health", "rural", "digital", "consultation"]
+    },
+    {
+      "id": 1015,
+      "title": "Clean Energy Transition Accelerated Program",
+      "summary": "Government launched an accelerated clean energy transition program with ambitious renewable energy targets and grid modernization initiatives for sustainable development.",
+      "keyTakeaways": [
+        "Renewable energy target increased to 280 GW by 2030",
+        "Smart grid infrastructure development across 100 cities",
+        "Energy storage system deployment for grid stability",
+        "Electric vehicle charging network expansion",
+        "Green energy jobs creation program for 500,000 people"
+      ],
+      "source": "https://mnre.gov.in/clean-energy-transition",
+      "month": "January 2025",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": ["clean", "energy", "renewable", "grid", "sustainability"]
+    }
+  ],
+  "December 2024": [
+    {
+      "id": 1016,
+      "title": "Winter Session of Parliament Key Legislation",
+      "summary": "The Winter Session of Parliament concluded with passage of significant legislation including the Digital Personal Data Protection Amendment Bill and National Research Foundation Act.",
+      "keyTakeaways": [
+        "Digital Personal Data Protection Amendment Bill passed",
+        "National Research Foundation Act enacted",
+        "Budget allocation for research increased by 40%",
+        "Parliamentary debates on technology regulation",
+        "Bipartisan support for scientific research funding"
+      ],
+      "source": "https://pib.gov.in/parliament-winter-session-2024",
+      "month": "December 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["parliament", "legislation", "data", "protection", "research"]
+    },
+    {
+      "id": 1017,
+      "title": "Year-End Economic Performance Review",
+      "summary": "India's economy demonstrated resilience with 7.1% GDP growth in 2024, driven by robust domestic consumption, manufacturing growth, and increased foreign investment.",
+      "keyTakeaways": [
+        "GDP growth of 7.1% achieved for calendar year 2024",
+        "Foreign direct investment increased by 25%",
+        "Manufacturing PMI remained above 50 for 18 consecutive months",
+        "Export performance exceeded $800 billion target",
+        "Unemployment rate decreased to 3.2% lowest in decade"
+      ],
+      "source": "https://economictimes.indiatimes.com/year-end-review-2024",
+      "month": "December 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["gdp", "growth", "economy", "investment", "export"]
+    },
+    {
+      "id": 1018,
+      "title": "National Semiconductor Mission Progress",
+      "summary": "India's National Semiconductor Mission achieved significant milestones with multiple fabrication plants under construction and technology partnerships with global leaders in chip manufacturing.",
+      "keyTakeaways": [
+        "Three semiconductor fabs under construction across India",
+        "Technology partnerships with Taiwan and South Korea",
+        "₹76,000 crore investment approved for semiconductor ecosystem",
+        "Skilled workforce development for 85,000 professionals",
+        "Target to meet 50% of domestic semiconductor demand by 2028"
+      ],
+      "source": "https://meity.gov.in/semiconductor-mission-2024",
+      "month": "December 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["semiconductor", "chips", "manufacturing", "technology", "investment"]
+    }
+  ],
+  "November 2024": [
+    {
+      "id": 1019,
+      "title": "Vigilance Awareness Week and Governance Reforms",
+      "summary": "The Central Vigilance Commission observed Vigilance Awareness Week with focus on digital governance reforms and transparency measures across government departments.",
+      "keyTakeaways": [
+        "Digital transparency initiatives launched in 500 government offices",
+        "Online grievance redressal system upgraded",
+        "Artificial intelligence for corruption detection deployed",
+        "Public participation in governance through digital platforms",
+        "Zero tolerance policy for corruption reinforced"
+      ],
+      "source": "https://cvc.gov.in/vigilance-week-2024",
+      "month": "November 2024",
+      "category": "Politics & Governance",
+      "importance": "medium",
+      "keywords": ["vigilance", "governance", "transparency", "corruption", "digital"]
+    },
+    {
+      "id": 1020,
+      "title": "Diwali Economic Impact and Festive Season Growth",
+      "summary": "The festive season led by Diwali generated significant economic activity with record retail sales, e-commerce growth, and increased consumer spending across various sectors.",
+      "keyTakeaways": [
+        "Retail sales increased by 35% during festive season",
+        "E-commerce platforms recorded highest ever transaction volume",
+        "MSME sector benefited with increased orders",
+        "Tourism industry witnessed 40% growth in domestic travel",
+        "Gold and jewelry sales reached ₹1.5 lakh crore"
+      ],
+      "source": "https://economictimes.indiatimes.com/diwali-economic-impact-2024",
+      "month": "November 2024",
+      "category": "Economy & Finance",
+      "importance": "medium",
+      "keywords": ["diwali", "festive", "retail", "ecommerce", "economy"]
+    },
+    {
+      "id": 1021,
+      "title": "Climate Action Summit COP29 India's Leadership",
+      "summary": "India demonstrated global leadership at COP29 climate summit by announcing enhanced renewable energy targets and innovative climate finance mechanisms for developing nations.",
+      "keyTakeaways": [
+        "Renewable energy target enhanced to 500 GW by 2030",
+        "Climate finance mechanism for Global South countries proposed",
+        "International Solar Alliance membership reached 100 countries",
+        "Green hydrogen production target of 15 million tonnes announced",
+        "Net-zero commitment timeline accelerated to 2065"
+      ],
+      "source": "https://moef.gov.in/cop29-india-leadership",
+      "month": "November 2024",
+      "category": "Environment & Climate",
+      "importance": "high",
+      "keywords": ["cop29", "climate", "renewable", "solar", "alliance"]
+    },
+    {
+      "id": 1022,
+      "title": "India-Russia Strategic Annual Summit",
+      "summary": "The India-Russia Strategic Annual Summit strengthened bilateral cooperation in energy, defense, and space technology with new agreements for long-term partnership.",
+      "keyTakeaways": [
+        "Long-term energy cooperation agreement signed",
+        "Defense technology transfer agreements renewed",
+        "Space cooperation in satellite navigation enhanced",
+        "Cultural and educational exchange programs expanded",
+        "Bilateral trade target set at $100 billion by 2030"
+      ],
+      "source": "https://mea.gov.in/india-russia-summit-2024",
+      "month": "November 2024",
+      "category": "International Relations",
+      "importance": "high",
+      "keywords": ["russia", "summit", "energy", "defense", "cooperation"]
+    },
+    {
+      "id": 1023,
+      "title": "National Education Innovation Challenge",
+      "summary": "The Ministry of Education launched a nationwide innovation challenge for students and educators to develop creative solutions for educational challenges using technology.",
+      "keyTakeaways": [
+        "Innovation challenge launched for 10 million students",
+        "Technology-based solutions for rural education encouraged",
+        "Prize pool of ₹100 crore for winning innovations",
+        "Partnerships with tech companies for implementation",
+        "Focus on inclusive and accessible education solutions"
+      ],
+      "source": "https://education.gov.in/innovation-challenge-2024",
+      "month": "November 2024",
+      "category": "Education",
+      "importance": "medium",
+      "keywords": ["education", "innovation", "challenge", "technology", "students"]
+    }
+  ],
+  "October 2024": [
+    {
+      "id": 1024,
+      "title": "Rashtriya Ekta Diwas and Unity Initiatives",
+      "summary": "India celebrated Rashtriya Ekta Diwas commemorating Sardar Vallabhbhai Patel with nationwide unity initiatives and cultural programs promoting national integration.",
+      "keyTakeaways": [
+        "Unity runs conducted in 750 districts simultaneously",
+        "Cultural programs showcasing diversity in unity",
+        "Statue of Unity tourism reached 10 million visitors",
+        "Educational programs on national integration launched",
+        "Unity pledges taken by 100 million citizens"
+      ],
+      "source": "https://pib.gov.in/rashtriya-ekta-diwas-2024",
+      "month": "October 2024",
+      "category": "Culture & Society",
+      "importance": "medium",
+      "keywords": ["unity", "ekta", "patel", "integration", "cultural"]
+    },
+    {
+      "id": 1025,
+      "title": "Goods and Services Tax System Enhancement",
+      "summary": "The GST system underwent major enhancements with AI-powered compliance monitoring and simplified filing procedures for small businesses and traders.",
+      "keyTakeaways": [
+        "AI-powered GST compliance monitoring system launched",
+        "Simplified filing procedures for businesses with turnover under ₹5 crore",
+        "Real-time data analytics for tax collection optimization",
+        "Mobile app for GST filing and payment introduced",
+        "Reduction in compliance burden by 40% for small businesses"
+      ],
+      "source": "https://gst.gov.in/system-enhancement-2024",
+      "month": "October 2024",
+      "category": "Economy & Finance",
+      "importance": "medium",
+      "keywords": ["gst", "tax", "compliance", "ai", "business"]
+    },
+    {
+      "id": 1026,
+      "title": "Digital Health Infrastructure National Rollout",
+      "summary": "The National Digital Health Mission achieved nationwide rollout with Health IDs for 500 million citizens and integrated health records system operational.",
+      "keyTakeaways": [
+        "Health IDs issued to 500 million citizens",
+        "Integrated health records system operational nationwide",
+        "Telemedicine consultations increased by 300%",
+        "Digital prescription and medication tracking implemented",
+        "Health data analytics for policy making established"
+      ],
+      "source": "https://abdm.gov.in/digital-health-rollout-2024",
+      "month": "October 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": ["digital", "health", "records", "telemedicine", "healthcare"]
+    },
+    {
+      "id": 1027,
+      "title": "Space Technology for Disaster Management",
+      "summary": "ISRO deployed advanced satellite technology for real-time disaster monitoring and early warning systems, significantly improving India's disaster preparedness capabilities.",
+      "keyTakeaways": [
+        "Advanced disaster monitoring satellites operational",
+        "Real-time early warning system for natural disasters",
+        "Integration with state disaster management authorities",
+        "Mobile alerts for citizens in disaster-prone areas",
+        "Reduced disaster response time by 70%"
+      ],
+      "source": "https://isro.gov.in/disaster-management-satellites",
+      "month": "October 2024",
+      "category": "Science & Research",
+      "importance": "high",
+      "keywords": ["space", "satellite", "disaster", "management", "isro"]
+    },
+    {
+      "id": 1028,
+      "title": "National Infrastructure Pipeline Progress",
+      "summary": "The National Infrastructure Pipeline achieved significant milestones with completion of major projects and accelerated implementation across transport, energy, and urban sectors.",
+      "keyTakeaways": [
+        "₹15 lakh crore infrastructure projects completed",
+        "Highway construction pace increased to 40 km per day",
+        "Urban infrastructure projects in 100 cities operational",
+        "Energy infrastructure capacity enhanced by 25%",
+        "Digital infrastructure connectivity to all villages achieved"
+      ],
+      "source": "https://niti.gov.in/infrastructure-pipeline-progress",
+      "month": "October 2024",
+      "category": "Infrastructure",
+      "importance": "high",
+      "keywords": ["infrastructure", "highway", "urban", "energy", "digital"]
+    }
+  ],
+  "August 2024": [
+    {
+      "id": 1034,
+      "title": "Independence Day Celebrations and National Unity",
+      "summary": "India celebrated its 78th Independence Day with grand celebrations across the nation, showcasing cultural diversity, technological achievements, and commitment to democratic values.",
+      "keyTakeaways": [
+        "78th Independence Day celebrated with nationwide enthusiasm",
+        "Cultural programs showcasing India's diversity",
+        "Display of indigenous defense technologies",
+        "Prime Minister's address highlighting national achievements",
+        "Unity in diversity theme emphasized across celebrations"
+      ],
+      "source": "https://pib.gov.in/independence-day-2024",
+      "month": "August 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["independence", "day", "celebration", "unity", "democracy"]
+    },
+    {
+      "id": 1035,
+      "title": "Monsoon Economic Impact Assessment",
+      "summary": "The 2024 monsoon season showed positive impact on agricultural production and rural economy, with above-normal rainfall supporting kharif crop cultivation across major states.",
+      "keyTakeaways": [
+        "Above-normal monsoon rainfall recorded in 80% of the country",
+        "Kharif crop sowing increased by 15% compared to previous year",
+        "Reservoir levels improved significantly across major river basins",
+        "Rural demand and consumption patterns showed recovery",
+        "Food inflation pressures eased due to good agricultural prospects"
+      ],
+      "source": "https://agricoop.gov.in/monsoon-impact-2024",
+      "month": "August 2024",
+      "category": "Agriculture",
+      "importance": "high",
+      "keywords": ["monsoon", "agriculture", "rainfall", "kharif", "economy"]
+    },
+    {
+      "id": 1036,
+      "title": "Digital India Achievements Milestone",
+      "summary": "Digital India program achieved significant milestones with 1 billion digital transactions per month and widespread adoption of digital government services across urban and rural areas.",
+      "keyTakeaways": [
+        "1 billion digital transactions per month achieved",
+        "99% government services available online",
+        "Rural digital literacy improved to 70%",
+        "Common Service Centers reached 500,000 villages",
+        "Digital identity verification through Aadhaar streamlined"
+      ],
+      "source": "https://digitalindia.gov.in/achievements-2024",
+      "month": "August 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["digital", "india", "transactions", "services", "literacy"]
+    },
+    {
+      "id": 1037,
+      "title": "National Health Insurance Scheme Expansion",
+      "summary": "Ayushman Bharat health insurance scheme expanded coverage and benefits, providing healthcare access to additional vulnerable populations with enhanced treatment packages.",
+      "keyTakeaways": [
+        "Health insurance coverage extended to 12 crore additional families",
+        "Treatment packages increased from 1,500 to 2,000 procedures",
+        "Cashless treatment facility at 25,000 hospitals",
+        "Preventive healthcare services included in coverage",
+        "Medical costs reduced by 60% for covered families"
+      ],
+      "source": "https://pmjay.gov.in/scheme-expansion-2024",
+      "month": "August 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": ["ayushman", "bharat", "health", "insurance", "coverage"]
+    },
+    {
+      "id": 1038,
+      "title": "Clean Energy Investment Surge",
+      "summary": "India witnessed unprecedented investment in clean energy sector with both domestic and international funding flowing into solar, wind, and green hydrogen projects.",
+      "keyTakeaways": [
+        "Clean energy investments reached $15 billion in 2024",
+        "Solar capacity additions of 20 GW achieved",
+        "Wind energy projects worth $8 billion under construction",
+        "Green hydrogen projects attracted international partnerships",
+        "Energy storage systems deployment accelerated"
+      ],
+      "source": "https://mnre.gov.in/clean-energy-investment-2024",
+      "month": "August 2024",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": ["clean", "energy", "investment", "solar", "hydrogen"]
+    }
+  ],
+  "June 2024": [
+    {
+      "id": 1044,
+      "title": "International Yoga Day Global Celebration",
+      "summary": "India led the 10th International Yoga Day celebrations with participation from 195 countries, promoting yoga as a holistic approach to health and well-being worldwide.",
+      "keyTakeaways": [
+        "Global participation from 195 countries",
+        "Yoga sessions conducted at 75,000 locations worldwide",
+        "Scientific research on yoga benefits published",
+        "Yoga therapy integration in healthcare systems",
+        "Cultural diplomacy through yoga strengthened"
+      ],
+      "source": "https://ayush.gov.in/international-yoga-day-2024",
+      "month": "June 2024",
+      "category": "Culture & Society",
+      "importance": "medium",
+      "keywords": ["yoga", "international", "health", "wellness", "culture"]
+    },
+    {
+      "id": 1045,
+      "title": "Skill India Mission 3.0 Launch",
+      "summary": "Government launched Skill India Mission 3.0 focusing on future technologies and industry 4.0 skills to prepare workforce for emerging job markets and economic transformation.",
+      "keyTakeaways": [
+        "Skill training for 5 million youth in emerging technologies",
+        "Industry 4.0 skills curriculum developed",
+        "Public-private partnerships for job placement",
+        "Recognition of prior learning for informal sector workers",
+        "International certification standards adopted"
+      ],
+      "source": "https://msde.gov.in/skill-india-3.0-2024",
+      "month": "June 2024",
+      "category": "Education",
+      "importance": "high",
+      "keywords": ["skill", "india", "training", "technology", "employment"]
+    },
+    {
+      "id": 1046,
+      "title": "Renewable Energy Milestone Achievement",
+      "summary": "India achieved 175 GW renewable energy capacity milestone ahead of schedule, demonstrating commitment to climate goals and energy transition.",
+      "keyTakeaways": [
+        "175 GW renewable energy capacity achieved",
+        "Target met 6 months ahead of schedule",
+        "Solar energy contributed 70 GW to total capacity",
+        "Wind energy installations reached 65 GW",
+        "Green jobs creation exceeded 1 million"
+      ],
+      "source": "https://mnre.gov.in/renewable-milestone-june-2024",
+      "month": "June 2024",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": ["renewable", "energy", "milestone", "solar", "wind"]
+    },
+    {
+      "id": 1047,
+      "title": "Digital Payment Revolution Continues",
+      "summary": "India's digital payment ecosystem reached new heights with UPI transactions crossing 10 billion per month, revolutionizing financial inclusion and cashless economy.",
+      "keyTakeaways": [
+        "UPI transactions exceeded 10 billion per month",
+        "Digital payment adoption in rural areas reached 60%",
+        "Fintech innovations in micro-lending and insurance",
+        "Cross-border payment partnerships established",
+        "Financial inclusion improved significantly"
+      ],
+      "source": "https://rbi.org.in/digital-payment-revolution-2024",
+      "month": "June 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["digital", "payment", "upi", "fintech", "inclusion"]
+    },
+    {
+      "id": 1048,
+      "title": "National Biodiversity Conservation Success",
+      "summary": "India's biodiversity conservation efforts showed remarkable success with increase in forest cover, wildlife population recovery, and ecosystem restoration initiatives.",
+      "keyTakeaways": [
+        "Forest cover increased by 1,540 square kilometers",
+        "Tiger population grew to 3,167 from previous census",
+        "Ecosystem restoration projects in 100 districts",
+        "Community-based conservation models successful",
+        "Biodiversity hotspots protection strengthened"
+      ],
+      "source": "https://moef.gov.in/biodiversity-conservation-2024",
+      "month": "June 2024",
+      "category": "Environment & Climate",
+      "importance": "medium",
+      "keywords": ["biodiversity", "conservation", "forest", "wildlife", "ecosystem"]
+    }
+  ],
+  "April 2024": [
+    {
+      "id": 1054,
+      "title": "World Earth Day Environmental Initiatives",
+      "summary": "India marked World Earth Day with launch of comprehensive environmental protection initiatives including afforestation drives, plastic waste management, and renewable energy projects.",
+      "keyTakeaways": [
+        "10 million tree plantation drive launched across the country",
+        "Single-use plastic ban implemented in major cities",
+        "Renewable energy projects worth ₹50,000 crore approved",
+        "Community-based environmental protection programs initiated",
+        "International collaboration on climate action strengthened"
+      ],
+      "source": "https://moef.gov.in/earth-day-initiatives-2024",
+      "month": "April 2024",
+      "category": "Environment & Climate",
+      "importance": "medium",
+      "keywords": ["earth", "day", "environment", "afforestation", "renewable"]
+    },
+    {
+      "id": 1055,
+      "title": "National Education Excellence Awards",
+      "summary": "The Ministry of Education announced National Education Excellence Awards recognizing outstanding achievements in teaching, research, and educational innovation across institutions.",
+      "keyTakeaways": [
+        "Excellence awards presented to 1,000 educators nationwide",
+        "Innovation in digital learning recognized and promoted",
+        "Research achievements in science and technology celebrated",
+        "Best practices in inclusive education highlighted",
+        "International recognition for Indian educational institutions"
+      ],
+      "source": "https://education.gov.in/excellence-awards-2024",
+      "month": "April 2024",
+      "category": "Education",
+      "importance": "medium",
+      "keywords": ["education", "excellence", "awards", "innovation", "research"]
+    },
+    {
+      "id": 1056,
+      "title": "Digital Banking Revolution Milestone",
+      "summary": "India's banking sector achieved new milestones in digital transformation with increased online transactions, mobile banking adoption, and fintech innovations.",
+      "keyTakeaways": [
+        "Digital banking transactions increased by 45% year-on-year",
+        "Mobile banking users crossed 500 million",
+        "Fintech lending reached ₹2 lakh crore",
+        "Blockchain technology adoption in banking accelerated",
+        "Financial inclusion targets exceeded ahead of schedule"
+      ],
+      "source": "https://rbi.org.in/digital-banking-milestone-2024",
+      "month": "April 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["digital", "banking", "fintech", "mobile", "blockchain"]
+    },
+    {
+      "id": 1057,
+      "title": "Space Technology Commercialization Policy",
+      "summary": "Government announced comprehensive space technology commercialization policy enabling private sector participation in satellite manufacturing, launch services, and space applications.",
+      "keyTakeaways": [
+        "Private sector participation in satellite manufacturing allowed",
+        "Commercial space launch services framework established",
+        "Space technology startups support program launched",
+        "Foreign investment in space sector permitted",
+        "Target to achieve $25 billion space economy by 2030"
+      ],
+      "source": "https://isro.gov.in/space-commercialization-policy-2024",
+      "month": "April 2024",
+      "category": "Science & Research",
+      "importance": "high",
+      "keywords": ["space", "commercialization", "private", "satellite", "policy"]
+    },
+    {
+      "id": 1058,
+      "title": "National Urban Transport Policy 2024",
+      "summary": "The Ministry of Housing and Urban Affairs launched National Urban Transport Policy 2024 focusing on sustainable mobility, public transport enhancement, and traffic management.",
+      "keyTakeaways": [
+        "Electric bus fleet deployment in 100 cities planned",
+        "Metro rail network expansion to 50 cities",
+        "Intelligent traffic management systems implementation",
+        "Cycling and pedestrian infrastructure development",
+        "Integration of different transport modes for seamless mobility"
+      ],
+      "source": "https://mohua.gov.in/urban-transport-policy-2024",
+      "month": "April 2024",
+      "category": "Transportation",
+      "importance": "medium",
+      "keywords": ["urban", "transport", "metro", "electric", "mobility"]
+    }
+  ],
+  "March 2024": [
+    {
+      "id": 1059,
+      "title": "Holi Festival Cultural Heritage Celebration",
+      "summary": "India celebrated Holi festival with grand cultural programs showcasing the country's rich traditions and promoting cultural tourism while maintaining COVID-19 safety protocols.",
+      "keyTakeaways": [
+        "Cultural heritage programs organized in 1,000 cities",
+        "International tourists participation in Holi celebrations",
+        "Traditional art forms and music promoted",
+        "Organic and eco-friendly colors usage encouraged",
+        "Cultural diplomacy through festival celebrations strengthened"
+      ],
+      "source": "https://culture.gov.in/holi-celebration-2024",
+      "month": "March 2024",
+      "category": "Culture & Society",
+      "importance": "medium",
+      "keywords": ["holi", "festival", "culture", "heritage", "tourism"]
+    },
+    {
+      "id": 1060,
+      "title": "Women's Day Empowerment Initiatives",
+      "summary": "International Women's Day marked with launch of comprehensive women empowerment initiatives including entrepreneurship support, leadership development, and safety measures.",
+      "keyTakeaways": [
+        "Women entrepreneurship fund of ₹10,000 crore announced",
+        "Leadership development programs for 1 million women",
+        "Digital safety and security measures strengthened",
+        "Women's participation in workforce target increased to 50%",
+        "Gender equality initiatives across all government programs"
+      ],
+      "source": "https://wcd.nic.in/womens-day-initiatives-2024",
+      "month": "March 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["women", "empowerment", "entrepreneurship", "leadership", "equality"]
+    },
+    {
+      "id": 1061,
+      "title": "Quantum Computing National Mission Launch",
+      "summary": "India launched National Mission on Quantum Technologies with substantial funding for research, development, and commercialization of quantum computing applications.",
+      "keyTakeaways": [
+        "₹8,000 crore allocated for quantum technology research",
+        "Quantum computing centers established in premier institutes",
+        "International collaboration with leading quantum research labs",
+        "Industry-academia partnerships for quantum applications",
+        "Quantum technology skilled workforce development program"
+      ],
+      "source": "https://dst.gov.in/quantum-mission-2024",
+      "month": "March 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["quantum", "computing", "research", "technology", "mission"]
+    },
+    {
+      "id": 1062,
+      "title": "Ayushman Bharat Health Insurance Expansion",
+      "summary": "Ayushman Bharat health insurance scheme expanded coverage to include additional vulnerable populations and enhanced treatment packages for comprehensive healthcare.",
+      "keyTakeaways": [
+        "Health insurance coverage extended to 15 crore additional families",
+        "Treatment packages increased to cover 2,500 procedures",
+        "Preventive healthcare services included in coverage",
+        "Cashless treatment facility expanded to 30,000 hospitals",
+        "Health insurance premiums reduced for vulnerable populations"
+      ],
+      "source": "https://pmjay.gov.in/expansion-march-2024",
+      "month": "March 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": ["ayushman", "bharat", "health", "insurance", "coverage"]
+    },
+    {
+      "id": 1063,
+      "title": "Renewable Energy Investment Surge",
+      "summary": "India witnessed record renewable energy investments with both domestic and international funding flowing into solar, wind, and energy storage projects across multiple states.",
+      "keyTakeaways": [
+        "Renewable energy investments crossed $20 billion",
+        "Solar manufacturing capacity increased to 15 GW",
+        "Energy storage projects worth $5 billion announced",
+        "Green energy jobs creation exceeded 800,000",
+        "Renewable energy export potential explored with neighboring countries"
+      ],
+      "source": "https://mnre.gov.in/investment-surge-march-2024",
+      "month": "March 2024",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": ["renewable", "energy", "investment", "solar", "storage"]
+    }
+  ],
+  "February 2024": [
+    {
+      "id": 1064,
+      "title": "Interim Budget 2024-25 Economic Framework",
+      "summary": "Finance Minister presented Interim Budget 2024-25 outlining economic priorities, infrastructure development plans, and welfare measures ahead of general elections.",
+      "keyTakeaways": [
+        "Infrastructure investment allocation of ₹11.11 lakh crore",
+        "Focus on rural development and agriculture support",
+        "Tax relief measures for middle-class taxpayers",
+        "Digital infrastructure expansion accelerated",
+        "Fiscal consolidation roadmap maintained"
+      ],
+      "source": "https://indiabudget.gov.in/interim-budget-2024",
+      "month": "February 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["interim", "budget", "infrastructure", "rural", "development"]
+    },
+    {
+      "id": 1065,
+      "title": "National Science Day Innovation Showcase",
+      "summary": "National Science Day celebrated across the country with focus on scientific temper, innovation in science education, and recognition of outstanding scientific achievements.",
+      "keyTakeaways": [
+        "Scientific innovation exhibitions in 10,000 schools",
+        "Research achievements in biotechnology and space science highlighted",
+        "Science communication programs launched",
+        "Women scientists recognition and support programs",
+        "International scientific collaboration agreements signed"
+      ],
+      "source": "https://dst.gov.in/science-day-february-2024",
+      "month": "February 2024",
+      "category": "Science & Research",
+      "importance": "medium",
+      "keywords": ["science", "day", "innovation", "research", "biotechnology"]
+    },
+    {
+      "id": 1066,
+      "title": "Digital Agriculture Mission Enhancement",
+      "summary": "Government enhanced Digital Agriculture Mission with AI-powered farming solutions, precision agriculture techniques, and direct farmer-market linkage platforms.",
+      "keyTakeaways": [
+        "AI-powered crop advisory services for 10 million farmers",
+        "Precision agriculture adoption in 1,000 districts",
+        "Direct farmer-market linkage platforms operational",
+        "Drone technology for crop monitoring and spraying",
+        "Digital payment systems for agricultural transactions"
+      ],
+      "source": "https://agricoop.gov.in/digital-agriculture-enhancement-2024",
+      "month": "February 2024",
+      "category": "Agriculture",
+      "importance": "high",
+      "keywords": ["digital", "agriculture", "ai", "precision", "farmers"]
+    },
+    {
+      "id": 1067,
+      "title": "Metro Rail Expansion National Program",
+      "summary": "Major metro rail expansion program announced with new corridors in tier-1 and tier-2 cities to improve urban mobility and reduce traffic congestion.",
+      "keyTakeaways": [
+        "Metro rail expansion approved for 25 cities",
+        "1,000 km new metro rail lines planned",
+        "Indigenous metro train manufacturing promoted",
+        "Green technology adoption in metro systems",
+        "Integration with other public transport modes"
+      ],
+      "source": "https://mohua.gov.in/metro-expansion-2024",
+      "month": "February 2024",
+      "category": "Infrastructure",
+      "importance": "high",
+      "keywords": ["metro", "rail", "expansion", "urban", "transport"]
+    },
+    {
+      "id": 1068,
+      "title": "Cyber Security Framework Strengthening",
+      "summary": "National cyber security framework strengthened with enhanced threat detection capabilities, critical infrastructure protection, and cybercrime investigation mechanisms.",
+      "keyTakeaways": [
+        "National Cyber Security Agency operational",
+        "Critical infrastructure protection enhanced",
+        "Cybercrime investigation capabilities upgraded",
+        "Public-private partnerships for cyber defense",
+        "Cyber security awareness programs launched nationwide"
+      ],
+      "source": "https://cert-in.org.in/framework-strengthening-2024",
+      "month": "February 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["cyber", "security", "framework", "infrastructure", "protection"]
+    }
+  ],
+  "May 2024": [
+    {
+      "id": 1049,
+      "title": "General Elections 2024 Democratic Success",
+      "summary": "India successfully conducted the world's largest democratic exercise with the 2024 General Elections, showcasing the strength of democratic institutions and voter participation.",
+      "keyTakeaways": [
+        "Highest voter turnout of 67.4% recorded",
+        "Technology-enabled transparent election process",
+        "NOTA (None of the Above) option usage increased",
+        "Youth participation significantly higher than previous elections",
+        "International observers praised election management"
+      ],
+      "source": "https://eci.gov.in/general-elections-2024",
+      "month": "May 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["elections", "democracy", "voting", "participation", "transparent"]
+    },
+    {
+      "id": 1050,
+      "title": "National Technology Day Innovations",
+      "summary": "National Technology Day celebrated India's technological achievements with showcase of indigenous innovations in space, defense, and civilian applications.",
+      "keyTakeaways": [
+        "Indigenous satellite technology demonstrated",
+        "Defense innovations including missile systems showcased",
+        "Civilian technology applications in healthcare and education",
+        "Innovation ecosystem strengthened through policy support",
+        "Technology exports reached new milestones"
+      ],
+      "source": "https://dst.gov.in/technology-day-may-2024",
+      "month": "May 2024",
+      "category": "Science & Research",
+      "importance": "medium",
+      "keywords": ["technology", "innovation", "indigenous", "space", "defense"]
+    },
+    {
+      "id": 1051,
+      "title": "Healthcare Infrastructure Development",
+      "summary": "Major healthcare infrastructure development projects completed including AIIMS expansion, medical colleges establishment, and telemedicine network strengthening.",
+      "keyTakeaways": [
+        "22 new AIIMS institutes became operational",
+        "Medical college seats increased by 50,000",
+        "Telemedicine network connected 1.5 lakh health centers",
+        "Rural healthcare access improved significantly",
+        "Specialized cancer and cardiac care centers established"
+      ],
+      "source": "https://mohfw.gov.in/healthcare-infrastructure-2024",
+      "month": "May 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": ["healthcare", "infrastructure", "aiims", "medical", "telemedicine"]
+    },
+    {
+      "id": 1052,
+      "title": "Agricultural Technology Revolution",
+      "summary": "Precision agriculture and technology adoption transformed farming practices with drone technology, AI-powered crop monitoring, and climate-smart agriculture techniques.",
+      "keyTakeaways": [
+        "Drone technology adopted by 500,000 farmers",
+        "AI-powered crop monitoring systems deployed",
+        "Climate-smart agriculture practices promoted",
+        "Farm productivity increased by 25% in pilot areas",
+        "Technology-enabled direct marketing platforms launched"
+      ],
+      "source": "https://agricoop.gov.in/agri-technology-revolution-2024",
+      "month": "May 2024",
+      "category": "Agriculture",
+      "importance": "high",
+      "keywords": ["agriculture", "technology", "precision", "ai", "productivity"]
+    },
+    {
+      "id": 1053,
+      "title": "Urban Development Smart Cities Progress",
+      "summary": "Smart Cities Mission demonstrated significant progress with technology integration, citizen services improvement, and sustainable urban development across 100 cities.",
+      "keyTakeaways": [
+        "Smart governance systems operational in 100 cities",
+        "Citizen services digitized and made accessible online",
+        "Smart traffic management reduced congestion by 30%",
+        "Waste management systems automated and optimized",
+        "Energy-efficient infrastructure reduced consumption by 25%"
+      ],
+      "source": "https://smartcities.gov.in/progress-may-2024",
+      "month": "May 2024",
+      "category": "Infrastructure",
+      "importance": "medium",
+      "keywords": ["smart", "cities", "urban", "governance", "technology"]
+    }
+  ],
+  "July 2024": [
+    {
+      "id": 1039,
+      "title": "Union Budget 2024-25 Presentation",
+      "summary": "Finance Minister presented Union Budget 2024-25 focusing on infrastructure development, employment generation, and fiscal consolidation while maintaining growth momentum.",
+      "keyTakeaways": [
+        "Infrastructure investment of ₹11 lakh crore allocated",
+        "Employment generation schemes for 4 crore youth",
+        "Fiscal deficit target maintained at 4.5% of GDP",
+        "Tax reforms to simplify compliance procedures",
+        "Emphasis on manufacturing and export promotion"
+      ],
+      "source": "https://indiabudget.gov.in/budget2024-25",
+      "month": "July 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["budget", "infrastructure", "employment", "fiscal", "tax"]
+    },
+    {
+      "id": 1040,
+      "title": "National Water Mission Achievement",
+      "summary": "National Water Mission achieved significant success in water conservation and management through innovative techniques and community participation across water-stressed regions.",
+      "keyTakeaways": [
+        "Water conservation projects in 10,000 villages completed",
+        "Groundwater levels improved by 20% in pilot areas",
+        "Rainwater harvesting systems installed in 1 million households",
+        "Water quality monitoring network established nationwide",
+        "Community-based water management models successful"
+      ],
+      "source": "https://jalshakti-dowr.gov.in/water-mission-2024",
+      "month": "July 2024",
+      "category": "Environment & Climate",
+      "importance": "medium",
+      "keywords": ["water", "conservation", "groundwater", "harvesting", "management"]
+    },
+    {
+      "id": 1041,
+      "title": "India-US Technology Partnership Enhancement",
+      "summary": "India and United States strengthened technology partnership with new agreements in semiconductors, artificial intelligence, and quantum computing research collaboration.",
+      "keyTakeaways": [
+        "Semiconductor manufacturing partnership agreement signed",
+        "Joint AI research initiative launched",
+        "Quantum computing collaboration framework established",
+        "Technology transfer programs for students and researchers",
+        "Defense technology cooperation enhanced"
+      ],
+      "source": "https://mea.gov.in/india-us-tech-partnership-2024",
+      "month": "July 2024",
+      "category": "International Relations",
+      "importance": "high",
+      "keywords": ["us", "technology", "partnership", "semiconductor", "ai"]
+    },
+    {
+      "id": 1042,
+      "title": "National Sports Excellence Program",
+      "summary": "Government launched National Sports Excellence Program to identify and nurture young talent with world-class training facilities and scientific support systems.",
+      "keyTakeaways": [
+        "Talent identification program in 10,000 schools launched",
+        "Sports science and medicine support centers established",
+        "International coaching expertise engaged",
+        "Financial support for promising athletes enhanced",
+        "Target to win 25 medals at 2028 Olympics"
+      ],
+      "source": "https://yas.nic.in/sports-excellence-2024",
+      "month": "July 2024",
+      "category": "Sports",
+      "importance": "medium",
+      "keywords": ["sports", "excellence", "talent", "olympics", "training"]
+    },
+    {
+      "id": 1043,
+      "title": "Railway Modernization and Safety Enhancement",
+      "summary": "Indian Railways accelerated modernization efforts with advanced signaling systems, track upgrades, and safety measures to enhance passenger experience and operational efficiency.",
+      "keyTakeaways": [
+        "Advanced signaling systems installed on 10,000 km routes",
+        "Track modernization completed on major corridors",
+        "Safety measures reduced accidents by 70%",
+        "Passenger amenities upgraded at 1,000 stations",
+        "Freight handling capacity increased by 25%"
+      ],
+      "source": "https://indianrailways.gov.in/modernization-2024",
+      "month": "July 2024",
+      "category": "Transportation",
+      "importance": "medium",
+      "keywords": ["railway", "modernization", "safety", "signaling", "infrastructure"]
+    }
+  ],
+  "September 2024": [
+    {
+      "id": 1029,
+      "title": "Teachers' Day Recognition and Education Reforms",
+      "summary": "India celebrated Teachers' Day with special recognition for educators and announcement of comprehensive education reforms including teacher training enhancement and curriculum modernization.",
+      "keyTakeaways": [
+        "National Teacher Excellence Awards presented to 500 educators",
+        "Teacher training programs enhanced with technology integration",
+        "Curriculum modernization for 21st-century skills",
+        "Salary enhancement for teachers in government schools",
+        "Digital teaching resources made available in regional languages"
+      ],
+      "source": "https://education.gov.in/teachers-day-2024",
+      "month": "September 2024",
+      "category": "Education",
+      "importance": "medium",
+      "keywords": ["teachers", "day", "education", "reform", "training"]
+    },
+    {
+      "id": 1030,
+      "title": "India's G20 Legacy Implementation",
+      "summary": "India successfully implemented G20 presidency legacy initiatives including Global Biofuels Alliance expansion and digital public infrastructure sharing with developing nations.",
+      "keyTakeaways": [
+        "Global Biofuels Alliance membership expanded to 25 countries",
+        "Digital public infrastructure shared with 15 developing nations",
+        "South-South cooperation initiatives strengthened",
+        "International arbitration center established in New Delhi",
+        "Green development pact signed with African nations"
+      ],
+      "source": "https://mea.gov.in/g20-legacy-implementation",
+      "month": "September 2024",
+      "category": "International Relations",
+      "importance": "high",
+      "keywords": ["g20", "legacy", "biofuels", "digital", "cooperation"]
+    },
+    {
+      "id": 1031,
+      "title": "National Sports Policy 2024 Launch",
+      "summary": "The government launched the National Sports Policy 2024 with focus on grassroots development, infrastructure enhancement, and preparation for upcoming international sporting events.",
+      "keyTakeaways": [
+        "Sports infrastructure development in 10,000 schools",
+        "Elite athlete support program with increased funding",
+        "Target to finish in top 10 at 2028 Olympics",
+        "Sports science and medicine centers established",
+        "Public-private partnerships for sports facility development"
+      ],
+      "source": "https://yas.nic.in/sports-policy-2024",
+      "month": "September 2024",
+      "category": "Sports",
+      "importance": "medium",
+      "keywords": ["sports", "policy", "olympics", "infrastructure", "athletes"]
+    },
+    {
+      "id": 1032,
+      "title": "Artificial Intelligence Mission India Launch",
+      "summary": "Government launched AI Mission India with comprehensive strategy for AI development, deployment, and governance across various sectors including healthcare, agriculture, and education.",
+      "keyTakeaways": [
+        "₹10,000 crore allocated for AI research and development",
+        "AI Centers of Excellence established in 25 institutes",
+        "Ethical AI guidelines and governance framework released",
+        "Industry-academia partnership for AI innovation",
+        "AI skilling program for 1 million professionals"
+      ],
+      "source": "https://meity.gov.in/ai-mission-india-2024",
+      "month": "September 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["artificial", "intelligence", "ai", "research", "innovation"]
+    },
+    {
+      "id": 1033,
+      "title": "National Renewable Energy Expansion",
+      "summary": "India accelerated renewable energy expansion with record solar and wind capacity additions, moving closer to achieving climate commitments and energy security goals.",
+      "keyTakeaways": [
+        "Record 25 GW renewable capacity added in Q3 2024",
+        "Solar energy costs reached grid parity across all states",
+        "Offshore wind energy policy finalized",
+        "Green energy corridor development accelerated",
+        "Renewable energy employment reached 1.5 million jobs"
+      ],
+      "source": "https://mnre.gov.in/renewable-expansion-sept-2024",
+      "month": "September 2024",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": ["renewable", "energy", "solar", "wind", "climate"]
+    }
+  ],
   "August 2025": [
     {
       "id": 1,
@@ -577,6 +1759,159 @@
       "category": "Banking",
       "importance": "medium",
       "keywords": ["financial", "literacy", "digital", "banking", "rural"]
+    },
+    {
+      "id": 37,
+      "title": "National Disaster Management Technology Upgrade",
+      "summary": "The National Disaster Management Authority upgraded technology infrastructure with AI-powered prediction systems and enhanced emergency response capabilities for natural disasters.",
+      "keyTakeaways": [
+        "AI-powered disaster prediction models deployed",
+        "Emergency response time reduced by 50%",
+        "Real-time communication systems for disaster zones",
+        "Community-based early warning systems established",
+        "Integration with international disaster monitoring networks"
+      ],
+      "source": "https://ndma.gov.in/technology-upgrade-2025",
+      "month": "July 2025",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": ["disaster", "management", "ai", "emergency", "response"]
+    },
+    {
+      "id": 38,
+      "title": "Make in India Defense Manufacturing Success",
+      "summary": "India's defense manufacturing sector achieved significant milestones under Make in India initiative with increased indigenous production and reduced import dependence.",
+      "keyTakeaways": [
+        "Defense production increased to ₹1.8 lakh crore",
+        "Import dependence reduced from 70% to 35%",
+        "Indigenous fighter aircraft and missile systems operational",
+        "Defense exports reached ₹21,000 crore",
+        "Private sector participation in defense manufacturing enhanced"
+      ],
+      "source": "https://makeinindia.gov.in/defense-manufacturing-2025",
+      "month": "July 2025",
+      "category": "Defense & Security",
+      "importance": "high",
+      "keywords": ["defense", "manufacturing", "indigenous", "export", "make-in-india"]
+    },
+    {
+      "id": 39,
+      "title": "National Water Grid Project Phase 1",
+      "summary": "The ambitious National Water Grid project completed Phase 1 connecting major river systems to ensure equitable water distribution across water-stressed regions.",
+      "keyTakeaways": [
+        "River interlinking project connecting 5 major river systems",
+        "Water security enhanced for 50 million people",
+        "Irrigation capacity increased by 2.5 million hectares",
+        "Advanced water treatment and recycling systems deployed",
+        "Flood control and drought mitigation capabilities improved"
+      ],
+      "source": "https://jalshakti-dowr.gov.in/water-grid-phase1",
+      "month": "July 2025",
+      "category": "Infrastructure",
+      "importance": "high",
+      "keywords": ["water", "grid", "river", "irrigation", "security"]
+    },
+    {
+      "id": 40,
+      "title": "National Cultural Heritage Digitization",
+      "summary": "A comprehensive digitization project preserved India's cultural heritage with 3D scanning of monuments, digitization of manuscripts, and virtual museum experiences.",
+      "keyTakeaways": [
+        "3D scanning completed for 500 heritage monuments",
+        "10,000 ancient manuscripts digitized and preserved",
+        "Virtual reality museum experiences launched",
+        "AI-powered heritage site monitoring systems deployed",
+        "Digital heritage access for global research community"
+      ],
+      "source": "https://culture.gov.in/heritage-digitization-2025",
+      "month": "July 2025",
+      "category": "Culture & Society",
+      "importance": "medium",
+      "keywords": ["heritage", "digitization", "monuments", "culture", "preservation"]
+    },
+    {
+      "id": 41,
+      "title": "Pradhan Mantri Garib Kalyan Yojana Extension",
+      "summary": "The government extended Pradhan Mantri Garib Kalyan Yojana with enhanced food security measures and direct benefit transfers for vulnerable populations.",
+      "keyTakeaways": [
+        "Free food grain distribution extended for additional 12 months",
+        "Coverage expanded to 81 crore beneficiaries",
+        "Direct cash transfer component added",
+        "Nutrition support for pregnant women and children",
+        "Digital technology for transparent distribution"
+      ],
+      "source": "https://pib.gov.in/garib-kalyan-extension-2025",
+      "month": "July 2025",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": ["garib", "kalyan", "food", "security", "welfare"]
+    },
+    {
+      "id": 42,
+      "title": "Blockchain Technology in Government Services",
+      "summary": "Multiple government departments implemented blockchain technology for secure document verification, land records, and educational certificates management.",
+      "keyTakeaways": [
+        "Blockchain-based land records system operational in 10 states",
+        "Educational certificate verification using blockchain",
+        "Secure government document authentication system",
+        "Reduced processing time for government services by 60%",
+        "Enhanced security and transparency in public services"
+      ],
+      "source": "https://digitalindia.gov.in/blockchain-services-2025",
+      "month": "July 2025",
+      "category": "Technology & Innovation",
+      "importance": "medium",
+      "keywords": ["blockchain", "government", "services", "digital", "security"]
+    },
+    {
+      "id": 43,
+      "title": "National Rural Livelihood Mission Impact",
+      "summary": "The National Rural Livelihood Mission achieved significant impact in reducing rural poverty through skill development, microfinance, and self-help group formation.",
+      "keyTakeaways": [
+        "8 crore women organized into self-help groups",
+        "Rural unemployment reduced by 40% in mission areas",
+        "Microfinance disbursement reached ₹3 lakh crore",
+        "Skill development training for 2 crore rural youth",
+        "Rural enterprise development supported for 50 lakh families"
+      ],
+      "source": "https://aajeevika.gov.in/mission-impact-2025",
+      "month": "July 2025",
+      "category": "Rural Development",
+      "importance": "high",
+      "keywords": ["rural", "livelihood", "self-help", "poverty", "development"]
+    },
+    {
+      "id": 44,
+      "title": "Space Economy Development Initiative",
+      "summary": "India launched comprehensive space economy development initiative to promote private sector participation and establish India as a global space hub.",
+      "keyTakeaways": [
+        "Private sector allowed in satellite manufacturing and launch",
+        "Space technology parks established in 5 cities",
+        "Target to achieve $25 billion space economy by 2030",
+        "International partnerships for space technology development",
+        "Startup support for space technology innovations"
+      ],
+      "source": "https://isro.gov.in/space-economy-initiative-2025",
+      "month": "July 2025",
+      "category": "Science & Research",
+      "importance": "high",
+      "keywords": ["space", "economy", "private", "satellite", "technology"]
+    },
+    {
+      "id": 45,
+      "title": "Comprehensive Healthcare Reform Package",
+      "summary": "Government announced comprehensive healthcare reforms including universal health insurance expansion, medical education enhancement, and healthcare infrastructure development.",
+      "keyTakeaways": [
+        "Universal health insurance coverage for all citizens",
+        "Medical college seats increased by 100% over 5 years",
+        "Primary healthcare centers upgraded with modern equipment",
+        "Specialist doctor availability in rural areas improved",
+        "Healthcare expenditure increased to 3% of GDP"
+      ],
+      "source": "https://mohfw.gov.in/healthcare-reform-2025",
+      "month": "July 2025",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": ["healthcare", "reform", "universal", "insurance", "medical"]
     }
   ],
   "June 2025": [
