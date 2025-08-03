@@ -708,6 +708,474 @@
         "exports",
         "macroeconomic"
       ]
+    },
+    {
+      "id": 28,
+      "title": "India-Russia Summit: Enhanced Defense and Energy Cooperation Agreements Signed",
+      "summary": "Prime Minister Narendra Modi and Russian President Vladimir Putin held comprehensive bilateral talks in Moscow, resulting in significant agreements on defense technology transfer, nuclear energy cooperation, and strategic partnership enhancement. The summit addressed India's continued procurement of Russian oil despite international sanctions, with both leaders emphasizing the importance of independent foreign policy decisions. Key agreements include joint development of advanced fighter aircraft, expansion of nuclear reactor projects, and increased cooperation in Arctic exploration. The leaders discussed regional security challenges, including the situation in Ukraine and Afghanistan, while reaffirming their commitment to multipolarity in global governance. Trade targets were revised upward to 00 billion by 2030, focusing on energy, defense, and agricultural sectors. The summit highlighted India's balancing act between maintaining strategic autonomy and managing relationships with Western allies. Cultural and educational exchange programs were also expanded [...]",
+      "keyTakeaways": [
+        "Modi-Putin summit results in enhanced defense technology transfer and nuclear cooperation",
+        "India continues Russian oil imports, emphasizing strategic autonomy in foreign policy",
+        "Joint fighter aircraft development and Arctic exploration agreements signed",
+        "Bilateral trade target increased to 00 billion by 2030 across multiple sectors",
+        "Summit highlights India's balanced approach to global partnerships amid geopolitical tensions"
+      ],
+      "source": "https://thehindu.com/news/international/india-russia-summit-moscow-defense-energy",
+      "month": "June 2024",
+      "category": "International Relations",
+      "importance": "high",
+      "keywords": [
+        "India-Russia",
+        "Modi",
+        "Putin",
+        "defense cooperation",
+        "energy",
+        "strategic partnership",
+        "bilateral trade",
+        "geopolitics"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "ISRO Successfully Launches PSLV-C58 with Advanced Earth Observation Satellite",
+      "summary": "The Indian Space Research Organisation (ISRO) successfully launched the Polar Satellite Launch Vehicle (PSLV-C58) from Sriharikota, carrying the XPoSat (X-ray Polarimeter Satellite) and 10 co-passenger satellites. The mission marks India's first dedicated scientific satellite for studying X-ray polarization from cosmic sources including black holes, neutron stars, and active galactic nuclei. XPoSat carries two scientific payloads: POLIX (Polarimetry in X-rays) and XSPECT (X-ray Spectroscopy and Timing), developed by ISRO and Raman Research Institute. The satellite will operate from a 650-kilometer low-earth orbit for a minimum mission life of five years. International space agencies praised the mission's scientific objectives and cost-effectiveness. The co-passenger satellites include technology demonstrators from various countries, showcasing ISRO's commercial launch capabilities. This mission strengthens India's position in space-based astronomical research and enhances understanding of high-energy astrophysical phenomena [...]",
+      "keyTakeaways": [
+        "ISRO launches PSLV-C58 with XPoSat, India's first X-ray polarimetry mission",
+        "Mission to study black holes, neutron stars, and active galactic nuclei from 650 km orbit",
+        "Two scientific payloads POLIX and XSPECT to operate for minimum five years",
+        "10 co-passenger satellites demonstrate ISRO's commercial launch capabilities",
+        "Mission enhances India's position in space-based astronomical research globally"
+      ],
+      "source": "https://thehindu.com/sci-tech/science/isro-pslv-c58-xposat-launch-success",
+      "month": "June 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "ISRO",
+        "PSLV",
+        "XPoSat",
+        "space mission",
+        "astronomy",
+        "black holes",
+        "satellite",
+        "scientific research"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "World Health Organization Approves India's First Indigenously Developed Malaria Vaccine",
+      "summary": "The World Health Organization (WHO) granted approval for India's first indigenously developed malaria vaccine, R21/Matrix-M, manufactured by the Serum Institute of India in collaboration with Oxford University. The vaccine demonstrated 75% efficacy in preventing malaria in children during clinical trials conducted across multiple African countries. This breakthrough makes India only the second country after the UK to receive WHO approval for a malaria vaccine, significantly boosting India's pharmaceutical manufacturing credentials. The vaccine is expected to be priced at under  per dose, making it highly accessible for developing countries. Production capacity has been scaled to 200 million doses annually, with initial distribution planned for high-burden African nations and endemic regions in India. The approval comes as global malaria cases have shown concerning increases in recent years. International health organizations have praised India's contribution to global health security through affordable vaccine manufacturing [...]",
+      "keyTakeaways": [
+        "WHO approves India's first indigenous malaria vaccine R21/Matrix-M with 75% efficacy",
+        "Serum Institute of India becomes global leader in accessible malaria prevention",
+        "Vaccine priced under  per dose with 200 million annual production capacity",
+        "India joins UK as only second country with WHO-approved malaria vaccine",
+        "Distribution planned for high-burden African nations and endemic Indian regions"
+      ],
+      "source": "https://thehindu.com/sci-tech/health/who-approves-india-malaria-vaccine-r21",
+      "month": "June 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": [
+        "WHO",
+        "malaria vaccine",
+        "Serum Institute",
+        "R21",
+        "public health",
+        "pharmaceutical",
+        "global health",
+        "accessibility"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "India's Renewable Energy Capacity Crosses 180 GW Milestone, Solar Leads Growth",
+      "summary": "India's renewable energy capacity surpassed the 180 GW milestone in June 2024, marking significant progress toward the national target of 500 GW by 2030. Solar energy dominated the growth with 70 GW installed capacity, followed by wind energy at 75 GW, hydropower at 47 GW, and other renewable sources at 15 GW. The Ministry of New and Renewable Energy attributed the achievement to favorable policy frameworks, declining technology costs, and increased private sector participation. Rajasthan, Gujarat, and Karnataka emerged as leading states in renewable energy deployment, contributing over 60% of the national capacity. International Energy Agency praised India's rapid transition toward clean energy and highlighted the country's role in global climate action. The renewable energy sector created over 1.2 million jobs and attracted foreign investments worth 5 billion in the past two years. Government targets include reaching 280 GW by 2026 and achieving carbon neutrality by 2070 [...]",
+      "keyTakeaways": [
+        "India's renewable energy capacity crosses 180 GW milestone with solar leading at 70 GW",
+        "Wind energy contributes 75 GW, hydropower 47 GW toward national clean energy goals",
+        "Rajasthan, Gujarat, and Karnataka contribute 60% of national renewable capacity",
+        "Sector creates 1.2 million jobs and attracts 5 billion foreign investment",
+        "Target of 280 GW by 2026 supports carbon neutrality goal by 2070"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/infrastructure/india-renewable-energy-180-gw-milestone",
+      "month": "June 2024",
+      "category": "Environment & Climate",
+      "importance": "high",
+      "keywords": [
+        "renewable energy",
+        "solar power",
+        "wind energy",
+        "clean energy",
+        "climate action",
+        "carbon neutrality",
+        "green jobs",
+        "investment"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "National Education Policy 2020: Digital Infrastructure Reaches 2.5 Lakh Schools Nationwide",
+      "summary": "The Ministry of Education announced that digital infrastructure under the National Education Policy (NEP) 2020 has been successfully established in 2.5 lakh schools across India, significantly enhancing access to quality education in rural and remote areas. The initiative includes high-speed internet connectivity, smart classrooms, digital libraries, and teacher training programs covering over 15 lakh educators. Key achievements include implementation of coding curriculum from Grade 6, introduction of artificial intelligence and machine learning modules, and establishment of virtual laboratories for science education. The program has shown remarkable results with 40% improvement in student engagement and 35% increase in learning outcomes across participating schools. Special emphasis was placed on mother tongue instruction and integration of Indian knowledge systems with modern pedagogy. The digital transformation has enabled seamless transition to hybrid learning models and improved educational accessibility for students with disabilities [...]",
+      "keyTakeaways": [
+        "Digital infrastructure established in 2.5 lakh schools under NEP 2020 implementation",
+        "Program covers 15 lakh teachers with training in modern digital pedagogy methods",
+        "Coding curriculum from Grade 6, AI/ML modules, and virtual science labs introduced",
+        "40% improvement in student engagement and 35% increase in learning outcomes",
+        "Enhanced accessibility for disabled students through assistive technology integration"
+      ],
+      "source": "https://thehindu.com/news/national/nep-2020-digital-infrastructure-schools",
+      "month": "June 2024",
+      "category": "Education",
+      "importance": "medium",
+      "keywords": [
+        "NEP 2020",
+        "digital education",
+        "smart classrooms",
+        "teacher training",
+        "coding curriculum",
+        "virtual labs",
+        "educational technology",
+        "learning outcomes"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Mumbai-Pune Hyperloop Test Track Construction Begins, India Enters High-Speed Transport Era",
+      "summary": "The construction of India's first hyperloop test track between Mumbai and Pune commenced in June 2024, marking the country's entry into ultra-high-speed transportation technology. The 150-kilometer corridor, developed through a public-private partnership with Virgin Hyperloop and Tata Group, will enable travel at speeds up to 1,000 kilometers per hour, reducing journey time from 3 hours to just 25 minutes. The project represents a 0 billion investment and is expected to transform regional connectivity while serving as a technology demonstrator for future hyperloop networks across India. Advanced construction techniques include elevated vacuum tubes, magnetic levitation systems, and renewable energy integration for carbon-neutral operations. The initiative has attracted international attention and positions India as a pioneer in next-generation transportation infrastructure. The first phase includes a 50-kilometer test section expected to be operational by 2026, with commercial services planned for 2028 [...]",
+      "keyTakeaways": [
+        "Mumbai-Pune hyperloop construction begins, enabling 1,000 kmph ultra-high-speed travel",
+        "150-km corridor reduces journey time from 3 hours to 25 minutes for passengers",
+        "0 billion project through partnership with Virgin Hyperloop and Tata Group",
+        "Carbon-neutral operations through renewable energy and magnetic levitation technology",
+        "First 50-km test section operational by 2026, commercial services by 2028"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/infrastructure/mumbai-pune-hyperloop-construction",
+      "month": "June 2024",
+      "category": "Infrastructure",
+      "importance": "high",
+      "keywords": [
+        "hyperloop",
+        "high-speed transport",
+        "Mumbai-Pune",
+        "infrastructure",
+        "magnetic levitation",
+        "transportation technology",
+        "Virgin Hyperloop",
+        "connectivity"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Indian Navy Commissions Indigenous Nuclear Submarine INS Arighaat, Enhances Strategic Deterrence",
+      "summary": "The Indian Navy commissioned its second indigenous nuclear-powered ballistic missile submarine (SSBN), INS Arighaat, significantly strengthening India's strategic nuclear deterrence capabilities. The submarine, developed under the Advanced Technology Vessel (ATV) project by the Defence Research and Development Organisation, can remain submerged for months and launch nuclear missiles from underwater positions. INS Arighaat features advanced sonar systems, stealth technology, and enhanced missile compartments capable of carrying K-4 ballistic missiles with a range of 3,500 kilometers. The commissioning ceremony was attended by Defence Minister Rajnath Singh, who emphasized the submarine's role in maintaining regional stability and securing maritime boundaries. The indigenous development program demonstrates India's growing technological prowess in advanced defense systems and reduces dependence on foreign suppliers. The submarine joins INS Arihant in forming the crucial sea-based leg of India's nuclear triad [...]",
+      "keyTakeaways": [
+        "INS Arighaat commissioned as India's second indigenous nuclear submarine (SSBN)",
+        "Advanced submarine can remain submerged for months with stealth technology",
+        "Equipped with K-4 ballistic missiles having 3,500 km range for strategic deterrence",
+        "Indigenous development reduces foreign dependence and demonstrates technological prowess",
+        "Strengthens sea-based nuclear triad alongside INS Arihant for regional stability"
+      ],
+      "source": "https://thehindu.com/news/national/indian-navy-ins-arighaat-nuclear-submarine",
+      "month": "June 2024",
+      "category": "Defense & Security",
+      "importance": "high",
+      "keywords": [
+        "nuclear submarine",
+        "INS Arighaat",
+        "Indian Navy",
+        "strategic deterrence",
+        "indigenous defense",
+        "ballistic missiles",
+        "nuclear triad",
+        "maritime security"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Neeraj Chopra Wins Diamond League Final in Javelin, Secures World Athletics Championship Spot",
+      "summary": "India's star javelin thrower Neeraj Chopra clinched victory at the Diamond League Final in Eugene, USA, with a season-best throw of 87.46 meters, securing his qualification for the World Athletics Championships. The Olympic champion dominated the competition with consistent throws above 85 meters, demonstrating exceptional form ahead of the world championships. Chopra's victory marks his third Diamond League win and reinforces his position as the world's leading javelin thrower. The achievement comes after intensive training with coach Klaus Bartonietz in Germany, focusing on technical improvements and biomechanical optimization. Sports Minister Anurag Thakur congratulated Chopra and announced additional support for his world championship preparations. The performance has raised expectations for India's medal prospects at the upcoming World Athletics Championships, where Chopra will defend his title. His success continues to inspire a new generation of Indian athletes in field events [...]",
+      "keyTakeaways": [
+        "Neeraj Chopra wins Diamond League Final with season-best 87.46m throw",
+        "Victory secures World Athletics Championship qualification and demonstrates world-class form",
+        "Third Diamond League win reinforces position as world's leading javelin thrower",
+        "Intensive training with German coach Klaus Bartonietz shows technical improvements",
+        "Performance raises medal expectations for World Championships title defense"
+      ],
+      "source": "https://timesofindia.indiatimes.com/sports/athletics/neeraj-chopra-diamond-league-victory",
+      "month": "June 2024",
+      "category": "Sports",
+      "importance": "medium",
+      "keywords": [
+        "Neeraj Chopra",
+        "javelin throw",
+        "Diamond League",
+        "athletics",
+        "World Championships",
+        "Olympic champion",
+        "sports achievement",
+        "track and field"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Ayushman Bharat Digital Mission Reaches 50 Crore Health IDs, Revolutionizes Healthcare Access",
+      "summary": "The Ayushman Bharat Digital Mission (ABDM) achieved a historic milestone by registering 50 crore Health IDs, making it the world's largest digital health identity program. The initiative enables seamless healthcare access across public and private facilities, with digital health records, telemedicine consultations, and medicine delivery integrated into a unified platform. Health Minister Mansukh Mandaviya highlighted the program's success in rural areas, where 60% of registrations originated, demonstrating effective digital healthcare penetration. The platform has facilitated over 10 crore digital consultations and enabled 5 crore digital prescriptions, significantly improving healthcare accessibility in remote regions. Integration with 75,000 healthcare facilities and 2.5 lakh healthcare providers ensures comprehensive coverage across the country. The mission has attracted international attention as a model for digital health transformation in developing countries. AI-powered health analytics and predictive diagnostics are being integrated to enhance preventive care [...]",
+      "keyTakeaways": [
+        "Ayushman Bharat Digital Mission registers 50 crore Health IDs, world's largest program",
+        "60% registrations from rural areas demonstrate effective digital healthcare penetration",
+        "Platform facilitates 10 crore digital consultations and 5 crore digital prescriptions",
+        "Integration with 75,000 healthcare facilities and 2.5 lakh healthcare providers",
+        "AI-powered analytics and predictive diagnostics enhance preventive healthcare delivery"
+      ],
+      "source": "https://thehindu.com/news/national/ayushman-bharat-digital-mission-50-crore-health-ids",
+      "month": "June 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": [
+        "Ayushman Bharat",
+        "digital health",
+        "health ID",
+        "telemedicine",
+        "healthcare access",
+        "rural healthcare",
+        "digital transformation",
+        "preventive care"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Project Cheetah: Kuno National Park Records Birth of Four Cheetah Cubs, Conservation Success",
+      "summary": "Madhya Pradesh's Kuno National Park celebrated a conservation milestone with the birth of four cheetah cubs, marking the first successful breeding of reintroduced cheetahs in India after 70 years of extinction. The cubs were born to Jwala, one of the 20 cheetahs translocated from Namibia and South Africa under Project Cheetah. Wildlife experts described the births as a crucial indicator of successful adaptation and ecosystem restoration. The mother and cubs are under 24-hour monitoring with advanced camera systems and veterinary care to ensure their survival and development. Environment Minister Bhupender Yadav hailed the achievement as validation of India's commitment to wildlife conservation and ecosystem restoration. The success has encouraged plans to introduce cheetahs to additional habitats in Rajasthan and Gujarat. International conservation organizations have praised India's systematic approach to species reintroduction and habitat management [...]",
+      "keyTakeaways": [
+        "Four cheetah cubs born at Kuno National Park, first successful breeding in 70 years",
+        "Cubs born to Jwala, one of 20 cheetahs translocated from Namibia and South Africa",
+        "Birth indicates successful adaptation and ecosystem restoration under Project Cheetah",
+        "24-hour monitoring and veterinary care ensure cubs' survival and development",
+        "Success encourages cheetah introduction to additional habitats in Rajasthan and Gujarat"
+      ],
+      "source": "https://thehindu.com/sci-tech/energy-and-environment/project-cheetah-cubs-birth-kuno-national-park",
+      "month": "June 2024",
+      "category": "Environment & Climate",
+      "importance": "medium",
+      "keywords": [
+        "Project Cheetah",
+        "wildlife conservation",
+        "Kuno National Park",
+        "species reintroduction",
+        "ecosystem restoration",
+        "endangered species",
+        "biodiversity",
+        "conservation success"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "PM-KISAN Scheme Reaches 12 Crore Farmers, Direct Benefit Transfer Exceeds \u20b93 Lakh Crore",
+      "summary": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme achieved a new milestone by reaching 12 crore farmer beneficiaries with total direct benefit transfers exceeding \u20b93 lakh crore since its inception in 2019. Agriculture Minister Narendra Singh Tomar announced that the scheme's 17th installment distributed \u20b917,000 crore to eligible farmers across the country. The program has significantly improved rural purchasing power and agricultural investment, with 85% of beneficiaries reporting enhanced farm productivity and income stability. Digital verification processes have eliminated over 3.2 crore duplicate and ineligible entries, ensuring targeted support reaches genuine farmers. The scheme's success has been attributed to effective use of technology, including Aadhaar integration, mobile banking, and real-time beneficiary verification systems. Plans are underway to expand coverage to include tenant farmers and sharecroppers, potentially adding 2 crore more beneficiaries. International development organizations have studied the program as a model for direct cash transfer schemes [...]",
+      "keyTakeaways": [
+        "PM-KISAN reaches 12 crore farmers with total transfers exceeding \u20b93 lakh crore",
+        "17th installment distributes \u20b917,000 crore to eligible farmers nationwide",
+        "85% of beneficiaries report enhanced farm productivity and income stability",
+        "Digital verification eliminates 3.2 crore duplicate entries ensuring targeted support",
+        "Expansion planned to include tenant farmers and sharecroppers, adding 2 crore beneficiaries"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/agriculture/pm-kisan-scheme-12-crore-farmers",
+      "month": "June 2024",
+      "category": "Agriculture",
+      "importance": "medium",
+      "keywords": [
+        "PM-KISAN",
+        "farmer welfare",
+        "direct benefit transfer",
+        "agricultural income",
+        "rural economy",
+        "digital verification",
+        "farm productivity",
+        "cash transfer"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "India Launches National Green Hydrogen Mission with \u20b919,744 Crore Investment",
+      "summary": "The Government of India launched the National Green Hydrogen Mission with an investment of \u20b919,744 crore, aiming to establish the country as a global hub for green hydrogen production and export. The mission targets production of 5 million tonnes of green hydrogen annually by 2030, creating employment for 6 lakh people and attracting investments worth \u20b98 lakh crore. Key components include incentives for electrolyzer manufacturing, green hydrogen production, and supporting infrastructure development across identified hydrogen valleys in Gujarat, Rajasthan, and Odisha. Power Minister R.K. Singh emphasized the mission's role in achieving energy independence and reducing carbon emissions by 50 million tonnes annually. The program includes research and development partnerships with international agencies and technology transfer agreements for advanced electrolysis systems. Major industrial groups including Reliance, Adani, and Tata have committed to establishing green hydrogen facilities. The mission positions India to capture 10% of the global green hydrogen market by 2030 [...]",
+      "keyTakeaways": [
+        "National Green Hydrogen Mission launched with \u20b919,744 crore investment",
+        "Target of 5 million tonnes annual production by 2030, creating 6 lakh jobs",
+        "Expected to attract \u20b98 lakh crore investments and reduce 50 million tonnes emissions",
+        "Hydrogen valleys planned in Gujarat, Rajasthan, and Odisha with supporting infrastructure",
+        "Major industrial groups commit to facilities, targeting 10% global market share"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/policy/national-green-hydrogen-mission-launch",
+      "month": "June 2024",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": [
+        "green hydrogen",
+        "renewable energy",
+        "energy transition",
+        "carbon emissions",
+        "clean fuel",
+        "electrolyzer",
+        "energy independence",
+        "hydrogen economy"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Unified Pension Scheme Approved: Government Ensures Assured Pension for Central Employees",
+      "summary": "The Union Cabinet approved the Unified Pension Scheme (UPS) for central government employees, guaranteeing assured pension equal to 50% of average basic pay drawn over the last 12 months of service for those with minimum 25 years of service. The scheme, effective from April 1, 2025, provides a minimum pension of \u20b910,000 per month after 10 years of service and includes inflation indexation similar to the Old Pension Scheme. Family pension will be 60% of employee pension, and the scheme offers lump sum payment at superannuation along with gratuity. The decision addresses long-standing demands from employee unions who opposed the New Pension Scheme introduced in 2004. Finance Minister Nirmala Sitharaman explained that UPS combines the benefits of both old and new pension schemes while maintaining fiscal sustainability. The scheme will benefit approximately 23 lakh central government employees and 30 lakh pensioners. State governments are expected to adopt similar frameworks for their employees [...]",
+      "keyTakeaways": [
+        "Unified Pension Scheme guarantees 50% of basic pay as assured pension for 25+ years service",
+        "Minimum pension of \u20b910,000 monthly after 10 years with inflation indexation benefits",
+        "Family pension set at 60% of employee pension with lump sum and gratuity payments",
+        "Scheme effective April 2025, benefiting 23 lakh employees and 30 lakh pensioners",
+        "Combines benefits of old and new pension schemes while maintaining fiscal sustainability"
+      ],
+      "source": "https://thehindu.com/news/national/unified-pension-scheme-cabinet-approval",
+      "month": "June 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": [
+        "pension scheme",
+        "government employees",
+        "social security",
+        "retirement benefits",
+        "fiscal policy",
+        "employee welfare",
+        "pension reform",
+        "assured pension"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Indian Institute of Science Develops Revolutionary Cancer Detection AI with 95% Accuracy",
+      "summary": "Researchers at the Indian Institute of Science (IISc) Bangalore developed an artificial intelligence system capable of detecting multiple cancer types with 95% accuracy using simple blood tests, potentially revolutionizing early cancer diagnosis. The AI model, trained on data from over 100,000 patients, can identify biomarkers for lung, breast, colorectal, and prostate cancers from liquid biopsies months before conventional imaging methods. The breakthrough technology uses machine learning algorithms to analyze circulating tumor DNA and protein patterns in blood samples, making cancer screening accessible and affordable. Clinical trials conducted across 15 hospitals showed remarkable success in detecting stage-1 cancers, significantly improving treatment outcomes and survival rates. The Department of Biotechnology announced plans to commercialize the technology through public-private partnerships, with initial deployment in government hospitals by 2025. International pharmaceutical companies have expressed interest in licensing the technology for global distribution. The innovation positions India as a leader in AI-driven medical diagnostics and precision medicine [...]",
+      "keyTakeaways": [
+        "IISc develops AI system detecting multiple cancers with 95% accuracy using blood tests",
+        "Technology identifies biomarkers months before conventional imaging methods",
+        "Clinical trials across 15 hospitals show success in detecting stage-1 cancers",
+        "Machine learning analyzes circulating tumor DNA and protein patterns affordably",
+        "Commercial deployment planned in government hospitals by 2025 with global licensing interest"
+      ],
+      "source": "https://thehindu.com/sci-tech/science/iisc-ai-cancer-detection-breakthrough",
+      "month": "June 2024",
+      "category": "Science & Research",
+      "importance": "high",
+      "keywords": [
+        "cancer detection",
+        "artificial intelligence",
+        "medical AI",
+        "early diagnosis",
+        "biomarkers",
+        "precision medicine",
+        "healthcare innovation",
+        "liquid biopsy"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Bharatanatyam Inscribed on UNESCO Intangible Cultural Heritage List, Celebrates Indian Arts",
+      "summary": "UNESCO officially inscribed Bharatanatyam, the classical dance form of Tamil Nadu, on its Representative List of Intangible Cultural Heritage of Humanity, recognizing its cultural significance and contribution to world heritage. The inscription acknowledges Bharatanatyam's role in preserving ancient Indian traditions, storytelling techniques, and spiritual expressions through dance, music, and dramatic performance. Culture Minister G. Kishan Reddy celebrated the recognition as validation of India's rich cultural diversity and artistic excellence. The decision was based on Bharatanatyam's historical continuity spanning over 2,000 years, its role in temple traditions, and its evolution as a respected art form worldwide. The recognition is expected to boost cultural tourism and provide better opportunities for traditional artists and dance practitioners. Educational institutions worldwide have expressed interest in establishing Bharatanatyam programs, while the Indian government announced enhanced support for classical arts preservation. The inscription joins other Indian cultural elements like Yoga, Kumbh Mela, and Traditional Brass and Copper Craft on UNESCO's prestigious list [...]",
+      "keyTakeaways": [
+        "UNESCO inscribes Bharatanatyam on Intangible Cultural Heritage list recognizing cultural significance",
+        "Recognition acknowledges 2,000-year historical continuity and temple tradition roots",
+        "Decision validates India's cultural diversity and artistic excellence globally",
+        "Expected to boost cultural tourism and opportunities for traditional artists",
+        "Joins Yoga, Kumbh Mela, and other Indian elements on UNESCO's prestigious heritage list"
+      ],
+      "source": "https://thehindu.com/news/national/bharatanatyam-unesco-cultural-heritage-list",
+      "month": "June 2024",
+      "category": "Culture & Society",
+      "importance": "medium",
+      "keywords": [
+        "Bharatanatyam",
+        "UNESCO",
+        "cultural heritage",
+        "classical dance",
+        "Indian arts",
+        "traditional culture",
+        "intangible heritage",
+        "cultural preservation"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "India's GDP Growth Accelerates to 7.8% in Q1 FY25, Beats Analyst Expectations",
+      "summary": "India's economy demonstrated robust growth with GDP expanding 7.8% year-on-year in the first quarter of FY25, surpassing analyst expectations of 7.2% and marking the fastest pace in four quarters. The growth was driven by strong manufacturing output, increased consumer spending, and robust services sector performance. Government capital expenditure and infrastructure investments continued to support economic momentum while private consumption showed signs of recovery. The manufacturing sector grew 9.1%, led by automobile, pharmaceutical, and textile industries, while services sector expanded 6.4% with significant contributions from IT, financial services, and retail. Agriculture sector growth moderated to 2.1% due to uneven monsoon distribution in certain regions. Finance Minister Nirmala Sitharaman attributed the strong performance to structural reforms, digital transformation, and improved business sentiment. International rating agencies maintained positive outlook on India's growth trajectory amid global uncertainties [...]",
+      "keyTakeaways": [
+        "India's GDP grows 7.8% in Q1 FY25, exceeding analyst expectations of 7.2%",
+        "Manufacturing sector leads growth at 9.1% driven by auto, pharma, and textile industries",
+        "Services sector expands 6.4% with strong IT, financial services, and retail performance",
+        "Government capex and infrastructure investments continue supporting economic momentum",
+        "International rating agencies maintain positive outlook on India's growth trajectory"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/indicators/gdp-growth-q1-fy25",
+      "month": "June 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": [
+        "GDP growth",
+        "economic indicators",
+        "manufacturing",
+        "services sector",
+        "consumer spending",
+        "infrastructure",
+        "economic reforms",
+        "business sentiment"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "ChatGPT Rival Developed by IIT Delhi: Bharat-GPT Launches with Multilingual Capabilities",
+      "summary": "IIT Delhi researchers unveiled Bharat-GPT, an indigenous large language model capable of understanding and generating content in 22 Indian languages, positioning it as a strong competitor to international AI systems like ChatGPT. The model was trained on over 2 trillion tokens of Indian language data, incorporating cultural context, regional nuances, and local knowledge systems. Bharat-GPT demonstrates superior performance in Indian language tasks, cultural sensitivity, and understanding of local contexts compared to global models. The project received \u20b9500 crore funding from the Ministry of Electronics and Information Technology under the National Language Translation Mission. The AI system can assist in education, governance, healthcare, and business applications while preserving linguistic diversity and cultural heritage. Leading Indian tech companies including Infosys, TCS, and Wipro have expressed interest in deploying Bharat-GPT for their operations. The development strengthens India's position in the global AI race and reduces dependence on foreign AI technologies [...]",
+      "keyTakeaways": [
+        "IIT Delhi develops Bharat-GPT, indigenous AI model with 22 Indian language capabilities",
+        "Model trained on 2 trillion tokens incorporating cultural context and local knowledge",
+        "Superior performance in Indian languages and cultural sensitivity compared to global models",
+        "\u20b9500 crore funding from Ministry of Electronics under National Language Translation Mission",
+        "Major Indian tech companies express interest in deployment, reducing foreign AI dependence"
+      ],
+      "source": "https://thehindu.com/sci-tech/technology/iit-delhi-bharat-gpt-ai-model-launch",
+      "month": "June 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "artificial intelligence",
+        "Bharat-GPT",
+        "large language model",
+        "multilingual AI",
+        "indigenous technology",
+        "Indian languages",
+        "AI research",
+        "technological sovereignty"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Vande Bharat Express Network Expands to 100 Routes, Revolutionizes Rail Travel",
+      "summary": "Indian Railways achieved a significant milestone with the Vande Bharat Express network expanding to 100 routes across the country, revolutionizing passenger rail travel with world-class amenities and enhanced connectivity. The semi-high-speed trains operate at maximum speeds of 180 kmph, reducing journey times by 25-40% compared to conventional trains while offering superior comfort and safety features. The expansion covers major corridors including Delhi-Mumbai, Chennai-Bangalore, Kolkata-Patna, and multiple regional routes connecting tier-2 and tier-3 cities. Railway Minister Ashwini Vaishnaw announced plans to introduce 400 Vande Bharat trains by 2025, creating employment for 2.5 lakh people in manufacturing and operations. The trains feature advanced safety systems, WiFi connectivity, GPS-based passenger information systems, and bio-toilets for environmental sustainability. Passenger satisfaction surveys show 92% approval ratings for comfort, punctuality, and service quality. The success has attracted international attention, with several countries expressing interest in Indian railway technology [...]",
+      "keyTakeaways": [
+        "Vande Bharat Express network expands to 100 routes with 180 kmph semi-high-speed operation",
+        "Trains reduce journey times by 25-40% with superior comfort and safety features",
+        "Network covers major corridors and connects tier-2, tier-3 cities improving accessibility",
+        "Plans for 400 trains by 2025 will create 2.5 lakh jobs in manufacturing and operations",
+        "92% passenger satisfaction with international interest in Indian railway technology"
+      ],
+      "source": "https://thehindu.com/news/national/vande-bharat-express-100-routes-expansion",
+      "month": "June 2024",
+      "category": "Infrastructure",
+      "importance": "medium",
+      "keywords": [
+        "Vande Bharat",
+        "railway expansion",
+        "semi-high-speed trains",
+        "rail connectivity",
+        "passenger transport",
+        "infrastructure development",
+        "railway technology",
+        "transportation"
+      ]
     }
   ],
   "July 2024": [
