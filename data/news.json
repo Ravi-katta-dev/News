@@ -520,6 +520,110 @@
         "Vikram lander",
         "Pragyan rover"
       ]
+    },
+    {
+      "id": 746,
+      "title": "Supreme Court Delivers Landmark Verdict on Electoral Bonds: Orders Complete Transparency in Political Funding",
+      "summary": "The Supreme Court of India delivered a unanimous verdict striking down the Electoral Bonds scheme, declaring it unconstitutional and ordering complete disclosure of all bond purchases and donations to political parties. The five-judge constitutional bench, led by Chief Justice D.Y. Chandrachud, ruled that the scheme violated citizens' fundamental right to information and compromised electoral transparency. The court directed the Election Commission to publish complete details of electoral bonds purchased since 2018, including donor identities and recipient political parties, within three weeks. The judgment emphasized that transparency in political funding is essential for democratic accountability and voter awareness. The State Bank of India was ordered to provide all bond transaction data to the Election Commission immediately. Political funding expert Jagdeep Chhokar welcomed the verdict as a victory for democratic transparency, while several political parties expressed concerns about the timeline for disclosure [...]",
+      "keyTakeaways": [
+        "Supreme Court unanimously strikes down Electoral Bonds scheme as unconstitutional violation of transparency",
+        "Five-judge bench orders complete disclosure of bond purchases and political donations since 2018",
+        "Election Commission directed to publish donor identities and recipient parties within three weeks",
+        "Judgment emphasizes transparency in political funding as essential for democratic accountability",
+        "State Bank of India ordered to provide all transaction data to Election Commission immediately"
+      ],
+      "source": "https://thehindu.com/news/national/supreme-court-electoral-bonds-verdict-transparency",
+      "month": "March 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": [
+        "Supreme Court",
+        "electoral bonds",
+        "political funding",
+        "transparency",
+        "constitutional law",
+        "Election Commission",
+        "democratic accountability",
+        "fundamental rights"
+      ]
+    },
+    {
+      "id": 747,
+      "title": "India's GDP Grows 8.4% in Q4 FY2024, Fastest Among Major Economies Globally",
+      "summary": "India's economy demonstrated remarkable resilience by achieving 8.4% GDP growth in the fourth quarter of FY2024, the highest among major global economies and surpassing all expert predictions. The National Statistical Office data revealed that full-year GDP growth reached 7.6%, driven by robust domestic consumption, increased private investment, and strong performance in manufacturing and services sectors. Key contributors included a 13.9% growth in manufacturing, 7.8% expansion in services, and 6.5% increase in construction activities. Private consumption expenditure grew by 9.2%, indicating strong domestic demand recovery post-pandemic. Finance Minister Nirmala Sitharaman attributed the performance to structural reforms, infrastructure spending, and improved business sentiment. International agencies including the IMF and World Bank revised their India growth projections upward, with the country expected to contribute over 15% to global growth in 2024. The rupee strengthened against major currencies following the data release [...]",
+      "keyTakeaways": [
+        "India achieves 8.4% GDP growth in Q4 FY2024, highest among major global economies",
+        "Full-year GDP growth reaches 7.6% driven by manufacturing, services, and construction",
+        "Private consumption expenditure grows 9.2%, indicating strong domestic demand recovery",
+        "Manufacturing sector leads with 13.9% growth, services expand 7.8%, construction 6.5%",
+        "IMF and World Bank revise India growth projections upward, expect 15% contribution to global growth"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/indicators/india-gdp-growth-q4-fy2024",
+      "month": "March 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": [
+        "GDP growth",
+        "economic performance",
+        "manufacturing",
+        "services",
+        "domestic consumption",
+        "private investment",
+        "structural reforms",
+        "global economy"
+      ]
+    },
+    {
+      "id": 748,
+      "title": "DRDO Successfully Tests Indigenous Long-Range Hypersonic Technology Demonstrator Vehicle",
+      "summary": "The Defence Research and Development Organisation (DRDO) achieved a major technological breakthrough by successfully testing India's first indigenous Hypersonic Technology Demonstrator Vehicle (HSTDV) from Dr. A.P.J. Abdul Kalam Island in Odisha. The test vehicle achieved speeds exceeding Mach 6 (six times the speed of sound) and demonstrated critical hypersonic technologies including scramjet propulsion, thermal protection systems, and autonomous guidance. The 12-minute flight test validated key parameters for future hypersonic weapons systems and reusable launch vehicles. Defence Minister Rajnath Singh congratulated DRDO scientists, emphasizing that this achievement places India among an elite group of nations with hypersonic capabilities, including the US, Russia, and China. The technology has dual applications for both civilian space programs and strategic defense systems. ISRO Chairman S. Somanath highlighted potential applications for reducing satellite launch costs and developing next-generation space transportation systems [...]",
+      "keyTakeaways": [
+        "DRDO successfully tests India's first indigenous Hypersonic Technology Demonstrator Vehicle",
+        "Test vehicle achieves speeds exceeding Mach 6 with scramjet propulsion technology",
+        "12-minute flight validates thermal protection, guidance systems for future applications",
+        "Achievement places India among elite nations with hypersonic capabilities alongside US, Russia, China",
+        "Technology offers dual applications for space programs and strategic defense systems"
+      ],
+      "source": "https://thehindu.com/news/national/drdo-hypersonic-technology-test-success",
+      "month": "March 2024",
+      "category": "Defense & Security",
+      "importance": "high",
+      "keywords": [
+        "DRDO",
+        "hypersonic technology",
+        "scramjet",
+        "defense innovation",
+        "strategic capabilities",
+        "aerospace technology",
+        "indigenous development",
+        "space technology"
+      ]
+    },
+    {
+      "id": 749,
+      "title": "India Launches AI for Good Global Partnership: $2 Billion Initiative for Sustainable Development",
+      "summary": "Prime Minister Narendra Modi launched the 'AI for Good Global Partnership' initiative with a $2 billion commitment to leverage artificial intelligence for addressing global challenges in healthcare, climate change, and poverty alleviation. The comprehensive program includes establishment of 50 AI research centers across developing nations, training 1 million AI professionals globally, and creating open-source AI tools for public welfare applications. Key focus areas include AI-powered early disease detection systems, climate monitoring and prediction models, and automated disaster response mechanisms. The initiative partners with leading technology companies including Microsoft, Google, and IBM to provide technical expertise and infrastructure support. UNESCO Director-General Audrey Azoulay praised India's leadership in democratizing AI technology for global development. The program aims to train 100,000 healthcare workers in AI-assisted diagnostics and deploy AI solutions in 10,000 schools worldwide by 2026 [...]",
+      "keyTakeaways": [
+        "India launches AI for Good Global Partnership with $2 billion commitment for sustainable development",
+        "Initiative establishes 50 AI research centers and trains 1 million professionals globally",
+        "Focus on AI applications for healthcare, climate monitoring, and disaster response",
+        "Partnership with Microsoft, Google, IBM provides technical expertise and infrastructure",
+        "Program aims to train 100,000 healthcare workers and deploy AI in 10,000 schools by 2026"
+      ],
+      "source": "https://economictimes.indiatimes.com/tech/technology/ai-for-good-global-partnership-launch",
+      "month": "March 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "artificial intelligence",
+        "AI for Good",
+        "sustainable development",
+        "global partnership",
+        "healthcare AI",
+        "climate technology",
+        "international cooperation",
+        "digital transformation"
+      ]
     }
   ],
   "April 2024": [
