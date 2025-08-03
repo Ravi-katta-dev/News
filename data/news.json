@@ -2010,6 +2010,74 @@
       "category": "Environment",
       "importance": "medium",
       "keywords": ["water", "conservation", "harvesting", "management", "quality"]
+    },
+    {
+      "id": 680,
+      "title": "National Pension System Reform and Enhancement",
+      "summary": "Government announced comprehensive reforms to National Pension System with enhanced benefits, simplified procedures, and expanded coverage for private sector employees.",
+      "keyTakeaways": [
+        "Pension benefits increased by 25% for new subscribers",
+        "Simplified withdrawal and exit procedures",
+        "Coverage extended to gig economy workers",
+        "Digital pension management platform launched",
+        "Tax benefits enhanced for pension contributions"
+      ],
+      "source": "https://pfrda.org.in/nps-reform-2025",
+      "month": "June 2025",
+      "category": "Economy & Finance",
+      "importance": "medium",
+      "keywords": ["pension", "nps", "reform", "benefits", "coverage"]
+    },
+    {
+      "id": 681,
+      "title": "Coastal Security Enhancement Program",
+      "summary": "Navy and Coast Guard launched enhanced coastal security program with advanced surveillance systems and rapid response capabilities to protect India's vast coastline.",
+      "keyTakeaways": [
+        "Advanced radar systems deployed along 7,500 km coastline",
+        "Rapid response vessels stationed at key coastal points",
+        "Integration with satellite surveillance systems",
+        "Coastal police training programs enhanced",
+        "International cooperation for maritime security strengthened"
+      ],
+      "source": "https://indiannavy.nic.in/coastal-security-2025",
+      "month": "June 2025",
+      "category": "Defense & Security",
+      "importance": "high",
+      "keywords": ["coastal", "security", "navy", "surveillance", "maritime"]
+    },
+    {
+      "id": 682,
+      "title": "National Handicrafts and Handloom Revival",
+      "summary": "Comprehensive program launched to revive traditional handicrafts and handloom sector with modern marketing, design innovation, and artisan skill development initiatives.",
+      "keyTakeaways": [
+        "1 million artisans provided skill enhancement training",
+        "Digital marketing platforms for handicrafts launched",
+        "Design innovation centers established in 50 clusters",
+        "Export target of ₹1 lakh crore for handicrafts set",
+        "GI tag registration expedited for traditional crafts"
+      ],
+      "source": "https://handicrafts.nic.in/revival-program-2025",
+      "month": "June 2025",
+      "category": "Culture & Society",
+      "importance": "medium",
+      "keywords": ["handicrafts", "handloom", "artisans", "traditional", "revival"]
+    },
+    {
+      "id": 683,
+      "title": "Artificial Intelligence in Healthcare Implementation",
+      "summary": "Nationwide implementation of AI in healthcare initiated with diagnostic support systems, drug discovery programs, and personalized treatment protocols in major hospitals.",
+      "keyTakeaways": [
+        "AI diagnostic systems deployed in 1,000 hospitals",
+        "Drug discovery acceleration through AI platforms",
+        "Personalized treatment protocols for cancer patients",
+        "Telemedicine enhanced with AI-powered consultations",
+        "Medical imaging analysis accuracy improved by 40%"
+      ],
+      "source": "https://mohfw.gov.in/ai-healthcare-implementation",
+      "month": "June 2025",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": ["ai", "healthcare", "diagnostic", "medical", "telemedicine"]
     }
   ],
   "May 2025": [
@@ -2108,6 +2176,91 @@
       "category": "Agriculture",
       "importance": "medium",
       "keywords": ["organic", "farming", "sustainable", "agriculture", "export"]
+    },
+    {
+      "id": 690,
+      "title": "National Disaster Resilience Infrastructure",
+      "summary": "India launched comprehensive disaster resilience infrastructure program with climate-adaptive construction, early warning systems, and community preparedness initiatives.",
+      "keyTakeaways": [
+        "Climate-resilient infrastructure standards developed",
+        "Early warning systems deployed in 500 districts",
+        "Community disaster preparedness training for 10 million people",
+        "Flood management infrastructure in vulnerable areas",
+        "Earthquake-resistant construction guidelines implemented"
+      ],
+      "source": "https://ndma.gov.in/disaster-resilience-2025",
+      "month": "May 2025",
+      "category": "Infrastructure",
+      "importance": "high",
+      "keywords": ["disaster", "resilience", "infrastructure", "climate", "preparedness"]
+    },
+    {
+      "id": 691,
+      "title": "National Logistics Policy Implementation",
+      "summary": "Government implemented National Logistics Policy to reduce logistics costs, improve efficiency, and enhance India's position in global supply chains.",
+      "keyTakeaways": [
+        "Logistics cost reduction target of 5% of GDP by 2030",
+        "Integrated logistics hubs development in 35 locations",
+        "Digital platform for seamless cargo movement",
+        "Multimodal transportation infrastructure enhanced",
+        "Private sector participation in logistics increased"
+      ],
+      "source": "https://logistics.gov.in/national-policy-implementation",
+      "month": "May 2025",
+      "category": "Transportation",
+      "importance": "high",
+      "keywords": ["logistics", "supply", "chain", "transport", "efficiency"]
+    },
+    {
+      "id": 692,
+      "title": "Cryptocurrency Regulation Framework",
+      "summary": "RBI and government unveiled comprehensive cryptocurrency regulation framework balancing innovation with financial stability and consumer protection.",
+      "keyTakeaways": [
+        "Regulatory sandbox for cryptocurrency innovations",
+        "Consumer protection measures for digital assets",
+        "Anti-money laundering compliance for crypto exchanges",
+        "Central Bank Digital Currency integration framework",
+        "Taxation clarity for cryptocurrency transactions"
+      ],
+      "source": "https://rbi.org.in/cryptocurrency-regulation-2025",
+      "month": "May 2025",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": ["cryptocurrency", "regulation", "digital", "assets", "rbi"]
+    },
+    {
+      "id": 693,
+      "title": "National Innovation Foundation Achievements",
+      "summary": "National Innovation Foundation celebrated remarkable achievements in grassroots innovation with recognition and support for inventor-entrepreneurs across rural India.",
+      "keyTakeaways": [
+        "10,000 grassroots innovations documented and recognized",
+        "Innovation support fund of ₹1,000 crore established",
+        "Rural inventor-entrepreneur mentorship programs",
+        "Technology incubation centers in 100 districts",
+        "Traditional knowledge preservation and commercialization"
+      ],
+      "source": "https://nif.org.in/innovation-achievements-2025",
+      "month": "May 2025",
+      "category": "Technology & Innovation",
+      "importance": "medium",
+      "keywords": ["innovation", "grassroots", "rural", "invention", "technology"]
+    },
+    {
+      "id": 694,
+      "title": "Nuclear Power Expansion Program",
+      "summary": "India accelerated nuclear power expansion with new reactor construction, indigenous technology development, and international cooperation for clean energy generation.",
+      "keyTakeaways": [
+        "10 new nuclear reactors under construction",
+        "Indigenous reactor technology development advanced",
+        "Nuclear fuel supply agreements with multiple countries",
+        "Nuclear safety protocols enhanced",
+        "Target to achieve 22 GW nuclear capacity by 2030"
+      ],
+      "source": "https://npcil.nic.in/nuclear-expansion-2025",
+      "month": "May 2025",
+      "category": "Energy",
+      "importance": "high",
+      "keywords": ["nuclear", "power", "reactor", "energy", "clean"]
     }
   ],
   "April 2025": [
