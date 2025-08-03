@@ -730,6 +730,110 @@
         "AI diagnostics",
         "rural health"
       ]
+    },
+    {
+      "id": 764,
+      "title": "India-UAE CEPA: Bilateral Trade Crosses $85 Billion Mark with Record Growth",
+      "summary": "India-UAE Comprehensive Economic Partnership Agreement (CEPA) achieved a historic milestone as bilateral trade crossed the $85 billion mark in April 2024, representing a 28% increase from the previous year. The agreement, implemented in May 2022, has facilitated seamless trade across multiple sectors including gems and jewelry, petroleum products, agricultural commodities, and textiles. Key achievements include India's exports to UAE growing by 32% to reach $52 billion, while UAE's investment in India touched $18 billion during the fiscal year. Major Indian companies expanded operations in UAE's financial and logistics hubs, while Emirati firms increased investments in India's renewable energy and infrastructure sectors. The partnership includes preferential tariffs on 90% of traded goods, streamlined customs procedures, and enhanced digital connectivity between ports. Both countries plan to expand the agreement to include services trade and mutual recognition agreements for professional qualifications [...]",
+      "keyTakeaways": [
+        "India-UAE bilateral trade crosses historic $85 billion mark with 28% year-on-year growth",
+        "Indian exports to UAE grow 32% reaching $52 billion under CEPA framework",
+        "UAE investment in India reaches $18 billion, focusing on renewable energy and infrastructure",
+        "Preferential tariffs on 90% of traded goods with streamlined customs procedures",
+        "Plans to expand agreement to include services trade and professional qualifications"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uae-cepa-trade-85-billion",
+      "month": "April 2024",
+      "category": "International Relations",
+      "importance": "high",
+      "keywords": [
+        "India-UAE CEPA",
+        "bilateral trade",
+        "economic partnership",
+        "exports",
+        "investment",
+        "preferential tariffs",
+        "customs",
+        "trade agreement"
+      ]
+    },
+    {
+      "id": 765,
+      "title": "Indian Railways Achieves 100% Electrification: Zero-Carbon Goal Ahead of Schedule",
+      "summary": "Indian Railways announced the completion of 100% electrification of its broad gauge network, achieving the milestone two years ahead of the 2026 target and making it the world's largest fully electrified railway system. The project covered 68,000 route kilometers across the country, eliminating diesel traction and reducing carbon emissions by 10.2 million tonnes annually. Railway Minister Ashwini Vaishnaw highlighted that the achievement saves ₹23,000 crore annually in fuel costs and positions Indian Railways as a green transport leader globally. The electrification project created employment for over 200,000 people and utilized indigenous technology developed by Rail India Technical and Economic Service (RITES). Key innovations include regenerative braking systems that feed power back to the grid, solar-powered stations, and energy-efficient LED lighting across the network. The next phase focuses on increasing train speeds to 200 kmph on key corridors and expanding high-speed rail connectivity [...]",
+      "keyTakeaways": [
+        "Indian Railways achieves 100% electrification of 68,000 km broad gauge network, two years early",
+        "World's largest fully electrified railway system reducing carbon emissions by 10.2 million tonnes annually",
+        "Annual fuel cost savings of ₹23,000 crore with indigenous technology development",
+        "Employment generation for 200,000 people during electrification project implementation",
+        "Next phase targets 200 kmph speeds and high-speed rail connectivity expansion"
+      ],
+      "source": "https://thehindu.com/news/national/indian-railways-100-percent-electrification-complete",
+      "month": "April 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "Indian Railways",
+        "electrification",
+        "zero carbon",
+        "green transport",
+        "renewable energy",
+        "rail infrastructure",
+        "sustainability",
+        "technology"
+      ]
+    },
+    {
+      "id": 766,
+      "title": "ISRO Successfully Tests Scramjet Engine: Hypersonic Technology Breakthrough",
+      "summary": "The Indian Space Research Organisation (ISRO) successfully conducted the first test of its indigenously developed scramjet engine, achieving a significant breakthrough in hypersonic technology development. The test, conducted from the Satish Dhawan Space Centre, demonstrated sustained combustion at Mach 6 speed (approximately 7,400 kmph) for 20 seconds, validating critical design parameters. The scramjet (supersonic combustion ramjet) engine represents a leap in aerospace technology, potentially reducing satellite launch costs by 90% and enabling single-stage-to-orbit missions. ISRO Chairman S. Somanath emphasized that this technology will revolutionize space access and contribute to India's goal of becoming a major space economy. The engine uses atmospheric oxygen for combustion, eliminating the need to carry oxidizer and significantly reducing vehicle weight. Future applications include hypersonic passenger aircraft, military missiles, and cost-effective satellite deployment systems. The success positions India among select nations with operational scramjet technology [...]",
+      "keyTakeaways": [
+        "ISRO successfully tests indigenous scramjet engine achieving Mach 6 speed for 20 seconds",
+        "Hypersonic technology breakthrough potentially reducing satellite launch costs by 90%",
+        "Engine uses atmospheric oxygen, eliminating oxidizer weight for single-stage-to-orbit missions",
+        "Applications include hypersonic aircraft, military systems, and cost-effective satellite deployment",
+        "India joins select group of nations with operational scramjet technology capabilities"
+      ],
+      "source": "https://thehindu.com/sci-tech/science/isro-scramjet-engine-test-hypersonic-breakthrough",
+      "month": "April 2024",
+      "category": "Science & Research",
+      "importance": "high",
+      "keywords": [
+        "ISRO",
+        "scramjet engine",
+        "hypersonic technology",
+        "space technology",
+        "satellite launch",
+        "aerospace",
+        "indigenous development",
+        "Mach 6"
+      ]
+    },
+    {
+      "id": 767,
+      "title": "India Achieves Fastest 5G Rollout Globally: 200 Million Subscribers in 18 Months",
+      "summary": "India achieved the world's fastest 5G rollout, reaching 200 million subscribers within 18 months of commercial launch, surpassing global benchmarks for adoption speed. The milestone was announced by Telecom Minister Ashwini Vaishnaw, highlighting that India covered 750 cities with 5G services compared to initial targets of 200 cities by April 2024. Reliance Jio leads with 110 million 5G subscribers, followed by Bharti Airtel with 70 million and Vi with 20 million users across urban and rural areas. Key drivers include affordable pricing strategies, extensive network coverage, and growing demand for high-speed internet services. The 5G ecosystem has catalyzed digital transformation across healthcare, education, agriculture, and manufacturing sectors, with startups developing innovative use cases. Average 5G speeds in India range from 150-400 Mbps, enabling applications like augmented reality, IoT deployment, and smart city initiatives. The success positions India as a global leader in telecommunications technology adoption [...]",
+      "keyTakeaways": [
+        "India achieves world's fastest 5G rollout with 200 million subscribers in 18 months",
+        "Coverage expanded to 750 cities, exceeding initial target of 200 cities by April 2024",
+        "Jio leads with 110 million, Airtel 70 million, Vi 20 million 5G subscribers",
+        "Average speeds of 150-400 Mbps enabling AR, IoT, and smart city applications",
+        "Digital transformation across healthcare, education, agriculture, and manufacturing sectors"
+      ],
+      "source": "https://economictimes.indiatimes.com/industry/telecom/india-fastest-5g-rollout-200-million-subscribers",
+      "month": "April 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "5G rollout",
+        "telecommunications",
+        "digital transformation",
+        "mobile subscribers",
+        "network coverage",
+        "internet speed",
+        "technology adoption",
+        "smart cities"
+      ]
     }
   ],
   "May 2024": [
@@ -809,6 +913,110 @@
         "investment",
         "automobiles",
         "pharmaceuticals"
+      ]
+    },
+    {
+      "id": 768,
+      "title": "India-France Strategic Partnership: Defense and Space Cooperation Agreement Signed",
+      "summary": "Prime Minister Narendra Modi and French President Emmanuel Macron signed a comprehensive strategic partnership agreement worth €20 billion, enhancing cooperation in defense manufacturing, space technology, and clean energy sectors. The agreement includes joint production of Rafale fighter jets in India, technology transfer for advanced submarine systems, and collaboration on satellite navigation and earth observation missions. France will establish a dedicated defense manufacturing hub in Gujarat with participation from Dassault, Thales, and Safran, creating 25,000 jobs over five years. Space cooperation includes joint missions to Mars and Moon, sharing of satellite data, and development of next-generation launch vehicles. The partnership extends to nuclear energy with France supporting India's clean energy transition through advanced reactor technologies. Both leaders emphasized the importance of strategic autonomy and multilateralism in addressing global challenges. Cultural exchange programs and academic partnerships will strengthen people-to-people connections between the two nations [...]",
+      "keyTakeaways": [
+        "India-France strategic partnership worth €20 billion covering defense, space, and clean energy",
+        "Joint Rafale production in India with technology transfer for submarine systems",
+        "French defense hub in Gujarat creating 25,000 jobs with Dassault, Thales, Safran participation",
+        "Space cooperation includes Mars and Moon missions, satellite data sharing, launch vehicle development",
+        "Nuclear energy collaboration for India's clean energy transition with advanced reactor technologies"
+      ],
+      "source": "https://thehindu.com/news/national/india-france-strategic-partnership-defense-space",
+      "month": "May 2024",
+      "category": "International Relations",
+      "importance": "high",
+      "keywords": [
+        "India-France partnership",
+        "defense cooperation",
+        "space technology",
+        "Rafale jets",
+        "nuclear energy",
+        "strategic autonomy",
+        "technology transfer",
+        "bilateral relations"
+      ]
+    },
+    {
+      "id": 769,
+      "title": "Rural Digital Transformation: BharatNet 3.0 Connects 2.5 Lakh Villages with High-Speed Internet",
+      "summary": "The BharatNet 3.0 initiative achieved a major milestone by connecting 2.5 lakh villages across India with high-speed optical fiber internet, transforming rural digital landscape and enabling access to digital services for 60 crore rural citizens. Communications Minister Ashwini Vaishnaw announced that the project has exceeded targets, with average internet speeds of 100 Mbps now available in connected villages. The program has facilitated digital governance, telemedicine services, online education, and e-commerce adoption in rural areas. Key achievements include establishment of Common Service Centers in 4 lakh villages, digital payment adoption increasing by 300%, and rural e-commerce transactions growing by 250% year-on-year. The initiative has created employment for 150,000 young entrepreneurs as digital service providers and cyber café operators. Future phases will focus on 5G connectivity in villages and establishing digital innovation hubs for agricultural technology development and rural startup incubation [...]",
+      "keyTakeaways": [
+        "BharatNet 3.0 connects 2.5 lakh villages with 100 Mbps optical fiber internet connectivity",
+        "60 crore rural citizens gain access to digital services, governance, telemedicine, and education",
+        "Digital payment adoption increases 300%, rural e-commerce transactions grow 250% annually",
+        "Employment created for 150,000 young entrepreneurs as digital service providers",
+        "Future phases include 5G connectivity and digital innovation hubs for agricultural technology"
+      ],
+      "source": "https://economictimes.indiatimes.com/industry/telecom/bharatnet-3-connects-villages-digital-transformation",
+      "month": "May 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "BharatNet",
+        "rural digital transformation",
+        "optical fiber",
+        "digital governance",
+        "telemedicine",
+        "e-commerce",
+        "digital payments",
+        "rural connectivity"
+      ]
+    },
+    {
+      "id": 770,
+      "title": "India's Renewable Energy Capacity Crosses 180 GW: Solar Power Leads Clean Energy Transition",
+      "summary": "India's renewable energy capacity crossed the historic 180 GW milestone in May 2024, with solar power contributing 75 GW and establishing the country as the world's fourth-largest renewable energy producer. Power Minister R.K. Singh announced that renewable energy now accounts for 42% of India's total installed capacity, ahead of the 2030 target of 50%. Solar installations witnessed unprecedented growth with 15 GW added in the first five months of 2024, driven by rooftop solar adoption and large-scale solar parks. The National Solar Mission achieved grid parity in 18 states, making solar power cheaper than coal-based electricity. Wind energy contributed 70 GW to the total capacity, with offshore wind projects gaining momentum along the Gujarat and Tamil Nadu coasts. Green hydrogen production capacity reached 500 MW with major industrial commitments from Reliance, Adani, and Tata Group. The transition has created 1.2 million jobs in the renewable energy sector [...]",
+      "keyTakeaways": [
+        "India's renewable energy capacity crosses 180 GW with solar contributing 75 GW",
+        "Renewable energy reaches 42% of total capacity, ahead of 2030 target of 50%",
+        "Solar grid parity achieved in 18 states, making solar cheaper than coal power",
+        "Green hydrogen production reaches 500 MW with major industrial commitments",
+        "Renewable energy sector creates 1.2 million jobs across solar, wind, and hydrogen"
+      ],
+      "source": "https://economictimes.indiatimes.com/industry/renewables/renewable-energy-capacity-180-gw-solar-power",
+      "month": "May 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "renewable energy",
+        "solar power",
+        "wind energy",
+        "green hydrogen",
+        "clean energy transition",
+        "grid parity",
+        "National Solar Mission",
+        "sustainable development"
+      ]
+    },
+    {
+      "id": 771,
+      "title": "WHO Declares India Malaria-Free: Historic Public Health Achievement After Decades",
+      "summary": "The World Health Organization officially declared India malaria-free, recognizing the country's remarkable achievement in eliminating the disease that once claimed hundreds of thousands of lives annually. The certification came after three consecutive years with zero indigenous malaria cases, following a comprehensive elimination strategy implemented since 2015. Health Minister Mansukh Mandaviya credited the success to coordinated efforts involving community health workers, advanced surveillance systems, and effective vector control measures. The malaria elimination program covered 198 districts across 15 states, utilizing innovative tools including insecticide-treated bed nets, indoor residual spraying, and rapid diagnostic testing. Key strategies included targeted interventions in tribal and forest areas, cross-border cooperation with neighboring countries, and strengthening of laboratory networks. The achievement positions India alongside other malaria-free nations and demonstrates the effectiveness of sustained public health interventions. The experience will contribute to global malaria elimination efforts [...]",
+      "keyTakeaways": [
+        "WHO declares India malaria-free after three consecutive years with zero indigenous cases",
+        "Historic achievement eliminates disease that once caused hundreds of thousands of deaths annually",
+        "Comprehensive strategy covered 198 districts across 15 states with community health workers",
+        "Innovative tools included treated bed nets, residual spraying, and rapid diagnostic testing",
+        "India's experience contributes to global malaria elimination efforts and public health strategies"
+      ],
+      "source": "https://thehindu.com/news/national/who-declares-india-malaria-free-public-health-achievement",
+      "month": "May 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": [
+        "malaria elimination",
+        "WHO certification",
+        "public health",
+        "disease eradication",
+        "health ministry",
+        "vector control",
+        "community health",
+        "global health"
       ]
     }
   ],
