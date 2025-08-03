@@ -42,12 +42,13 @@ async function loadNewsData() {
 }
 
 // DOM Elements
-let searchInput, monthFilter, newsContainer, totalNewsCount, filteredNewsCount, clearSearchBtn;
+let searchInput, monthFilter, newsContainer, totalNewsCount, filteredNewsCount, clearSearchBtn, themeToggle;
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', async function() {
     initializeElements();
     setupEventListeners();
+    initializeTheme();
     
     // Load news data from JSON file
     await loadNewsData();
@@ -63,6 +64,7 @@ function initializeElements() {
     totalNewsCount = document.getElementById('totalNews');
     filteredNewsCount = document.getElementById('filteredNews');
     clearSearchBtn = document.getElementById('clearSearch');
+    themeToggle = document.getElementById('themeToggle');
 }
 
 function setupEventListeners() {
@@ -74,6 +76,9 @@ function setupEventListeners() {
     
     // Clear search button
     clearSearchBtn.addEventListener('click', clearSearch);
+    
+    // Theme toggle
+    themeToggle.addEventListener('click', toggleTheme);
 }
 
 function handleSearch() {
@@ -225,4 +230,33 @@ function updateStats() {
 // Export for potential testing
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = { currentAffairsData, renderNews };
+}
+
+// Theme Management
+function initializeTheme() {
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    document.body.setAttribute('data-theme', savedTheme);
+    updateThemeToggleIcon(savedTheme);
+}
+
+function toggleTheme() {
+    const currentTheme = document.body.getAttribute('data-theme') || 'light';
+    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    
+    document.body.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    updateThemeToggleIcon(newTheme);
+}
+
+function updateThemeToggleIcon(theme) {
+    const icon = themeToggle.querySelector('i');
+    if (theme === 'dark') {
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+        themeToggle.setAttribute('aria-label', 'Switch to light mode');
+    } else {
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+        themeToggle.setAttribute('aria-label', 'Switch to dark mode');
+    }
 }
