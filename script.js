@@ -4,7 +4,15 @@ let currentAffairsData = [];
 // Function to load news data from JSON file
 async function loadNewsData() {
     try {
-        const response = await fetch('./data/news.json');
+        // Add cache-busting parameter to prevent stale cache issues
+        const cacheBuster = new Date().getTime();
+        const response = await fetch(`./data/news.json?v=${cacheBuster}`, {
+            cache: 'no-cache',
+            headers: {
+                'Cache-Control': 'no-cache',
+                'Pragma': 'no-cache'
+            }
+        });
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
