@@ -1,0 +1,104 @@
+/** Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background: #007BFF;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 0.5rem;
+}
+
+/* Search controls */
+.search-container {
+    margin: 1rem auto;
+}
+
+.search-container input {
+    padding: 0.5rem;
+    width: 80%;
+    max-width: 500px;
+    border: 2px solid #007BFF;
+    border-radius: 5px;
+}
+
+.search-container button {
+    padding: 0.5rem 1rem;
+    background: #0056b3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-container button:hover {
+    background: #003f7f;
+}
+
+/* News card styles */
+.news-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 1rem;
+    transition: transform 0.3s;
+}
+
+.news-card:hover {
+    transform: scale(1.05);
+}
+
+.news-card h2 {
+    font-size: 1.5rem;
+    color: #007BFF;
+}
+
+.news-card p {
+    margin: 0.5rem 0;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .search-container {
+        flex-direction: column;
+    }
+
+    .search-container input {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+
+    .news-card {
+        margin: 0.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 0.5rem;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    .news-card h2 {
+        font-size: 1.2rem;
+    }
+}
