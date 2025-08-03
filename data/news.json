@@ -629,6 +629,58 @@
   "April 2024": [
     {
       "id": 21,
+      "title": "Lok Sabha Elections Phase 1: Record 70% Voter Turnout Across 102 Constituencies",
+      "summary": "The first phase of Lok Sabha Elections 2024 witnessed an unprecedented 70% voter turnout across 102 constituencies in 21 states and union territories, marking the highest participation rate in the first phase since 1999. Election Commission officials reported smooth conduct with minimal incidents, while extensive security arrangements ensured peaceful polling. Key highlights included strong voter engagement in West Bengal (75%), Rajasthan (72%), and Uttar Pradesh (68%), with young voters aged 18-25 showing remarkable 65% participation. Advanced technology deployment included 100% VVPAT verification, live webcasting from 50,000 sensitive booths, and real-time monitoring through the cVIGIL app. Special arrangements facilitated voting for 50,000 differently-abled voters and 25,000 senior citizens above 80 years through home voting facilities. Chief Election Commissioner Rajiv Kumar praised the peaceful conduct and credited extensive voter awareness campaigns for the high turnout [...]",
+      "keyTakeaways": [
+        "Phase 1 Lok Sabha elections achieve record 70% voter turnout across 102 constituencies",
+        "West Bengal leads with 75% turnout, followed by Rajasthan (72%) and UP (68%)",
+        "Young voters aged 18-25 show impressive 65% participation in democratic process",
+        "100% VVPAT verification, 50,000 booth webcasting ensure transparent polling",
+        "Special arrangements for 50,000 differently-abled and 25,000 senior citizens voting"
+      ],
+      "source": "https://thehindu.com/news/national/lok-sabha-elections-phase-1-voter-turnout",
+      "month": "April 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": [
+        "Lok Sabha elections",
+        "voter turnout",
+        "democracy",
+        "Election Commission",
+        "polling",
+        "VVPAT",
+        "electoral process",
+        "constituency"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Digital India Act 2024: Parliament Passes Comprehensive Cyber Security Legislation",
+      "summary": "Parliament passed the landmark Digital India Act 2024 with overwhelming support, establishing comprehensive frameworks for cybersecurity, data protection, and digital rights for 140 crore Indians. The legislation creates a unified regulatory structure replacing outdated IT laws and introduces stringent penalties for cyber crimes, data breaches, and online harassment. Key provisions include mandatory data localization for sensitive personal information, establishment of Data Protection Authority of India with ₹5,000 crore budget, and right to digital inheritance for deceased individuals' accounts. The Act mandates cybersecurity audits for companies handling over 10 lakh user data points and creates specialized cyber courts in 100 cities for expedited justice. New categories of cyber crimes include deepfake creation (up to 7 years imprisonment), cryptocurrency fraud (up to 10 years), and unauthorized AI training on personal data. The legislation balances innovation promotion with citizen protection [...]",
+      "keyTakeaways": [
+        "Digital India Act 2024 passed creating unified regulatory framework for 140 crore Indians",
+        "Mandatory data localization, Data Protection Authority with ₹5,000 crore budget established",
+        "Right to digital inheritance and specialized cyber courts in 100 cities introduced",
+        "Stringent penalties for deepfake (7 years), cryptocurrency fraud (10 years), unauthorized AI use",
+        "Cybersecurity audits mandatory for companies with 10+ lakh user data points"
+      ],
+      "source": "https://thehindu.com/news/national/digital-india-act-2024-parliament-passes",
+      "month": "April 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": [
+        "Digital India Act",
+        "cybersecurity",
+        "data protection",
+        "digital rights",
+        "cyber crimes",
+        "parliament",
+        "data localization",
+        "digital governance"
+      ]
+    },
+    {
+      "id": 760,
       "title": "G20 Finance Ministers Summit in Mumbai: Global Economic Recovery Roadmap Adopted",
       "summary": "Finance ministers from G20 nations convened in Mumbai for a critical summit addressing global economic recovery and sustainable development financing. Union Finance Minister Nirmala Sitharaman chaired the discussions that resulted in the Mumbai Declaration, outlining coordinated fiscal policies to combat inflation and promote inclusive growth. Key agreements include establishment of a $500 billion Global Infrastructure Fund, enhanced cooperation on cryptocurrency regulation, and standardized carbon pricing mechanisms. The summit addressed concerns about supply chain disruptions, energy security, and food inflation affecting developing nations. India successfully advocated for increased representation of emerging economies in international financial institutions and pushed for reforms in multilateral development bank lending practices. The declaration emphasized the importance of digital financial inclusion and green financing for achieving sustainable development goals by 2030 [...]",
       "keyTakeaways": [
@@ -654,7 +706,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 761,
       "title": "National Health Mission 2.0: Universal Healthcare Coverage Expanded to 75 Crore Citizens",
       "summary": "Health Minister Mansukh Mandaviya launched the National Health Mission 2.0, expanding universal healthcare coverage to 75 crore citizens across India through enhanced primary healthcare infrastructure and digital health services. The mission includes establishment of 1.5 lakh Health and Wellness Centers, deployment of 50,000 community health officers, and integration of telemedicine services in rural areas. The program allocates ₹2.5 lakh crore over five years to strengthen healthcare delivery systems, with special focus on maternal and child health, non-communicable disease management, and mental health services. New initiatives include mobile health units for remote areas, AI-powered diagnostic tools in primary health centers, and comprehensive health insurance coverage for vulnerable populations. The mission aims to reduce infant mortality rate to 15 per 1,000 live births and maternal mortality ratio to 70 per 100,000 live births by 2030 [...]",
       "keyTakeaways": [
@@ -705,6 +757,58 @@
         "quantum technologies",
         "cryptography",
         "research"
+      ]
+    },
+    {
+      "id": 762,
+      "title": "Lok Sabha Elections Results: BJP-Led NDA Secures Mandate with Reduced Majority",
+      "summary": "The Bharatiya Janata Party (BJP) secured victory in the 2024 Lok Sabha elections but with a significantly reduced majority, winning 240 seats compared to 303 in 2019. The National Democratic Alliance (NDA) crossed the halfway mark with 293 seats, ensuring Narendra Modi's third consecutive term as Prime Minister. The Indian National Congress made substantial gains, winning 99 seats and leading the INDIA alliance to 234 seats. Key factors in the election included economic concerns, unemployment, and regional issues that influenced voter sentiment on inflation, rural distress, and job creation. Modi's victory speech emphasized inclusive governance and development for all sections of society. The reduced mandate indicates the need for coalition politics and broader consensus on policy decisions. International leaders congratulated Modi on his historic third term as Prime Minister [...]",
+      "keyTakeaways": [
+        "BJP wins 240 seats, down from 303 in 2019, but NDA secures 293 seats for majority",
+        "Congress gains significantly with 99 seats, INDIA alliance reaches 234 seats total",
+        "Narendra Modi becomes first PM since Nehru to win three consecutive terms",
+        "Reduced mandate reflects voter concerns about economy, unemployment, and inflation",
+        "Results signal need for more consensual approach and coalition politics ahead"
+      ],
+      "source": "https://thehindu.com/news/national/lok-sabha-elections-2024-results-bjp-nda",
+      "month": "May 2024",
+      "category": "Politics & Governance",
+      "importance": "high",
+      "keywords": [
+        "Lok Sabha elections",
+        "BJP",
+        "NDA",
+        "Modi",
+        "third term",
+        "coalition",
+        "democracy",
+        "mandate"
+      ]
+    },
+    {
+      "id": 763,
+      "title": "India's Manufacturing Sector Records Highest Growth in 8 Years with 12.5% Expansion",
+      "summary": "India's manufacturing sector achieved its highest growth rate in eight years, recording a remarkable 12.5% expansion in May 2024 compared to the same period last year. The Purchasing Managers' Index (PMI) for manufacturing touched 58.3, indicating robust expansion across all sub-sectors including automobiles, pharmaceuticals, textiles, and electronics. Key drivers include increased domestic demand, export competitiveness, and successful implementation of production-linked incentive schemes. The automotive sector led growth with 18% expansion, followed by pharmaceuticals at 15% and electronics at 14%. Employment in manufacturing increased by 8.2%, creating over 2.5 million new jobs across tier-2 and tier-3 cities. Finance Minister Nirmala Sitharaman attributed the success to structural reforms, infrastructure development, and the 'Make in India' initiative. International investors increased their stake in Indian manufacturing companies by ₹45,000 crore during the quarter [...]",
+      "keyTakeaways": [
+        "Manufacturing sector records highest growth in 8 years with 12.5% expansion in May 2024",
+        "PMI touches 58.3 with robust expansion across automobiles, pharmaceuticals, and electronics",
+        "Automotive sector leads with 18% growth, pharmaceuticals at 15%, electronics at 14%",
+        "Employment increases by 8.2%, creating 2.5 million new jobs in tier-2 and tier-3 cities",
+        "International investors increase stake by ₹45,000 crore in Indian manufacturing companies"
+      ],
+      "source": "https://economictimes.indiatimes.com/news/economy/indicators/manufacturing-growth-record-high",
+      "month": "May 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": [
+        "manufacturing",
+        "PMI",
+        "growth",
+        "employment",
+        "Make in India",
+        "investment",
+        "automobiles",
+        "pharmaceuticals"
       ]
     }
   ],
