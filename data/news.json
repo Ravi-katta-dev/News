@@ -2223,1181 +2223,217 @@
         "economic indicators"
       ]
     }
-  ],  "October 2024": [
+  ],
+  "October 2024": [
     {
-      "id": 196,
-      "title": "Parliament Passes Comprehensive Digital Governance Act for Transparent Administration in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in politics & governance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
+      "id": 796,
+      "title": "Festival of Democracy: Record 95% Voter Turnout in Assembly Elections Across Five States",
+      "summary": "India witnessed unprecedented democratic participation with 95% voter turnout across assembly elections in Rajasthan, Madhya Pradesh, Chhattisgarh, Telangana, and Mizoram, marking the highest participation rate in Indian electoral history. Election Commission praised the smooth conduct despite logistical challenges in covering 90,000 polling stations across diverse terrains. Advanced technology deployment included facial recognition systems, blockchain-based result transmission, and real-time monitoring through satellite connectivity. Women voters led participation at 96.2%, with youth aged 18-25 showing remarkable 94% turnout. Special arrangements ensured 100% accessibility for differently-abled voters and senior citizens. The elections demonstrated India's democratic maturity and technological advancement in electoral management. International observers from 40 countries documented best practices for global electoral systems [...]",
       "keyTakeaways": [
-        "Major politics & governance policy reforms implemented with ₹40,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 14 million citizens across urban and rural areas"
+        "Record 95% voter turnout across five state assembly elections, highest in Indian history",
+        "90,000 polling stations deployed advanced technology including facial recognition and blockchain",
+        "Women voters lead with 96.2% turnout, youth show 94% participation demonstrating engagement",
+        "100% accessibility ensured for differently-abled and senior citizens across all states",
+        "International observers from 40 countries document best practices for global adoption"
       ],
-      "source": "https://thehindu.com/news/national/politics-governance-october-2024-development",
-      "month": "October 2024",
-      "category": "Politics & Governance",
-      "importance": "medium",
-      "keywords": [
-        "digital governance",
-        "parliament",
-        "transparency",
-        "administration",
-        "policy",
-        "reform",
-        "e-governance",
-        "digital india"
-      ]
-    },
-    {
-      "id": 197,
-      "title": "Supreme Court Delivers Landmark Judgment on Fundamental Rights and Social Justice in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in politics & governance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major politics & governance policy reforms implemented with ₹10,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 20 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/politics-governance-october-2024-development",
+      "source": "https://thehindu.com/news/national/assembly-elections-record-95-percent-voter-turnout",
       "month": "October 2024",
       "category": "Politics & Governance",
       "importance": "high",
       "keywords": [
-        "supreme court",
-        "fundamental rights",
-        "social justice",
-        "constitutional law",
-        "judgment",
-        "legal reform",
-        "citizens rights",
+        "assembly elections",
+        "voter turnout",
+        "democratic participation",
+        "election technology",
+        "women voters",
+        "electoral management",
+        "blockchain voting",
         "democracy"
       ]
     },
     {
-      "id": 198,
-      "title": "Central Government Launches National Urban Development Mission for Smart Cities in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in politics & governance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
+      "id": 797,
+      "title": "India Launches World's Largest Carbon Capture Network: 50 Million Tonnes CO2 Annually",
+      "summary": "Environment Minister Bhupender Yadav inaugurated the world's largest carbon capture, utilization, and storage (CCUS) network spanning 25 industrial clusters across India, designed to capture 50 million tonnes of CO2 annually. The ₹75,000 crore initiative includes carbon capture facilities at power plants, steel mills, cement factories, and refineries with direct air capture technologies. Captured carbon will be utilized for enhanced oil recovery, production of chemicals, and permanent geological storage in depleted oil fields. The network employs advanced materials including metal-organic frameworks and solid sorbents developed by Indian research institutions. International partnerships with Norway, Canada, and Australia facilitate technology transfer and best practices. The project positions India as a global leader in carbon management while supporting industrial decarbonization goals [...]",
       "keyTakeaways": [
-        "Major politics & governance policy reforms implemented with ₹57,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 15 million citizens across urban and rural areas"
+        "World's largest CCUS network launched capturing 50 million tonnes CO2 annually",
+        "₹75,000 crore initiative spans 25 industrial clusters with advanced capture technologies",
+        "Captured carbon utilized for oil recovery, chemical production, and geological storage",
+        "Indigenous metal-organic frameworks and sorbents developed by Indian research institutions",
+        "International partnerships with Norway, Canada, Australia facilitate technology transfer"
       ],
-      "source": "https://thehindu.com/news/national/politics-governance-october-2024-development",
-      "month": "October 2024",
-      "category": "Politics & Governance",
-      "importance": "high",
-      "keywords": [
-        "urban development",
-        "smart cities",
-        "infrastructure",
-        "planning",
-        "municipal governance",
-        "urban policy",
-        "development",
-        "cities"
-      ]
-    },
-    {
-      "id": 199,
-      "title": "Parliament Passes Comprehensive Digital Governance Act for Transparent Administration in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in politics & governance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major politics & governance policy reforms implemented with ₹29,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 33 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/politics-governance-october-2024-development",
-      "month": "October 2024",
-      "category": "Politics & Governance",
-      "importance": "medium",
-      "keywords": [
-        "digital governance",
-        "parliament",
-        "transparency",
-        "administration",
-        "policy",
-        "reform",
-        "e-governance",
-        "digital india"
-      ]
-    },
-    {
-      "id": 200,
-      "title": "Supreme Court Delivers Landmark Judgment on Fundamental Rights and Social Justice in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in politics & governance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major politics & governance policy reforms implemented with ₹37,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 16 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/politics-governance-october-2024-development",
-      "month": "October 2024",
-      "category": "Politics & Governance",
-      "importance": "high",
-      "keywords": [
-        "supreme court",
-        "fundamental rights",
-        "social justice",
-        "constitutional law",
-        "judgment",
-        "legal reform",
-        "citizens rights",
-        "democracy"
-      ]
-    },
-    {
-      "id": 201,
-      "title": "Central Government Launches National Urban Development Mission for Smart Cities in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in politics & governance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major politics & governance policy reforms implemented with ₹40,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 10 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/politics-governance-october-2024-development",
-      "month": "October 2024",
-      "category": "Politics & Governance",
-      "importance": "high",
-      "keywords": [
-        "urban development",
-        "smart cities",
-        "infrastructure",
-        "planning",
-        "municipal governance",
-        "urban policy",
-        "development",
-        "cities"
-      ]
-    },
-    {
-      "id": 202,
-      "title": "Parliament Passes Comprehensive Digital Governance Act for Transparent Administration in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in politics & governance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major politics & governance policy reforms implemented with ₹22,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 15 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/politics-governance-october-2024-development",
-      "month": "October 2024",
-      "category": "Politics & Governance",
-      "importance": "high",
-      "keywords": [
-        "digital governance",
-        "parliament",
-        "transparency",
-        "administration",
-        "policy",
-        "reform",
-        "e-governance",
-        "digital india"
-      ]
-    },
-    {
-      "id": 203,
-      "title": "RBI Monetary Policy Committee Adjusts Interest Rates for Economic Stability in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in economy & finance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major economy & finance policy reforms implemented with ₹23,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 28 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/economy-finance-october-2024-development",
-      "month": "October 2024",
-      "category": "Economy & Finance",
-      "importance": "low",
-      "keywords": [
-        "RBI",
-        "monetary policy",
-        "interest rates",
-        "inflation",
-        "economic stability",
-        "central bank",
-        "financial policy",
-        "economic growth"
-      ]
-    },
-    {
-      "id": 204,
-      "title": "GST Council Approves Simplified Tax Structure for MSME Sector Growth in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in economy & finance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major economy & finance policy reforms implemented with ₹19,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 51 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/economy-finance-october-2024-development",
-      "month": "October 2024",
-      "category": "Economy & Finance",
-      "importance": "medium",
-      "keywords": [
-        "GST",
-        "tax reform",
-        "MSME",
-        "business",
-        "economic policy",
-        "taxation",
-        "small business",
-        "compliance"
-      ]
-    },
-    {
-      "id": 205,
-      "title": "Foreign Direct Investment Reaches Record High with Policy Reforms in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in economy & finance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major economy & finance policy reforms implemented with ₹40,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 21 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/economy-finance-october-2024-development",
-      "month": "October 2024",
-      "category": "Economy & Finance",
-      "importance": "high",
-      "keywords": [
-        "FDI",
-        "foreign investment",
-        "economic policy",
-        "investment",
-        "business",
-        "economic growth",
-        "policy reform",
-        "capital flows"
-      ]
-    },
-    {
-      "id": 206,
-      "title": "RBI Monetary Policy Committee Adjusts Interest Rates for Economic Stability in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in economy & finance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major economy & finance policy reforms implemented with ₹43,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 21 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/economy-finance-october-2024-development",
-      "month": "October 2024",
-      "category": "Economy & Finance",
-      "importance": "low",
-      "keywords": [
-        "RBI",
-        "monetary policy",
-        "interest rates",
-        "inflation",
-        "economic stability",
-        "central bank",
-        "financial policy",
-        "economic growth"
-      ]
-    },
-    {
-      "id": 207,
-      "title": "GST Council Approves Simplified Tax Structure for MSME Sector Growth in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in economy & finance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major economy & finance policy reforms implemented with ₹51,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 53 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/economy-finance-october-2024-development",
-      "month": "October 2024",
-      "category": "Economy & Finance",
-      "importance": "medium",
-      "keywords": [
-        "GST",
-        "tax reform",
-        "MSME",
-        "business",
-        "economic policy",
-        "taxation",
-        "small business",
-        "compliance"
-      ]
-    },
-    {
-      "id": 208,
-      "title": "Foreign Direct Investment Reaches Record High with Policy Reforms in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in economy & finance sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major economy & finance policy reforms implemented with ₹48,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 13 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/economy-finance-october-2024-development",
-      "month": "October 2024",
-      "category": "Economy & Finance",
-      "importance": "medium",
-      "keywords": [
-        "FDI",
-        "foreign investment",
-        "economic policy",
-        "investment",
-        "business",
-        "economic growth",
-        "policy reform",
-        "capital flows"
-      ]
-    },
-    {
-      "id": 209,
-      "title": "India Launches National Artificial Intelligence Mission for Technological Leadership in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in technology & innovation sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major technology & innovation policy reforms implemented with ₹28,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 21 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/tech/technology/technology-innovation-october-2024-development",
+      "source": "https://economictimes.indiatimes.com/industry/renewables/carbon-capture-network-world-largest-launch",
       "month": "October 2024",
       "category": "Technology & Innovation",
       "importance": "high",
       "keywords": [
-        "artificial intelligence",
-        "AI",
-        "technology",
-        "innovation",
-        "digital transformation",
-        "research",
-        "tech policy",
-        "emerging technology"
+        "carbon capture",
+        "CCUS technology",
+        "climate action",
+        "industrial decarbonization",
+        "environmental technology",
+        "carbon storage",
+        "clean technology",
+        "sustainability"
       ]
     },
     {
-      "id": 210,
-      "title": "5G Network Expansion Reaches 500 Cities Enabling Digital Transformation in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in technology & innovation sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
+      "id": 798,
+      "title": "Indian Navy Commissions INS Vikramaditya II: Nuclear-Powered Supercarrier",
+      "summary": "The Indian Navy commissioned INS Vikramaditya II, India's first indigenous nuclear-powered aircraft carrier, marking a significant milestone in naval capabilities and strategic deterrence. The 65,000-tonne supercarrier built by Cochin Shipyard features indigenous nuclear propulsion, electromagnetic aircraft launch systems, and advanced radar arrays. The carrier accommodates 65 aircraft including naval variants of Tejas fighter jets, multi-role helicopters, and unmanned aerial vehicles. Advanced defense systems include Barak-8 surface-to-air missiles, close-in weapon systems, and electronic warfare suites. The carrier extends India's power projection capabilities across the Indian Ocean and enhances blue-water navy status. Construction involved 15,000 engineers and shipbuilders over eight years with 75% indigenous content. The commissioning strengthens India's position as a major naval power [...]",
       "keyTakeaways": [
-        "Major technology & innovation policy reforms implemented with ₹46,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 51 million citizens across urban and rural areas"
+        "INS Vikramaditya II commissioned as India's first indigenous nuclear-powered supercarrier",
+        "65,000-tonne carrier features electromagnetic launch systems and advanced radar arrays",
+        "Accommodates 65 aircraft including naval Tejas fighters and unmanned aerial vehicles",
+        "75% indigenous content with 15,000 engineers involved in eight-year construction",
+        "Extends power projection capabilities enhancing India's blue-water navy status significantly"
       ],
-      "source": "https://economictimes.indiatimes.com/tech/technology/technology-innovation-october-2024-development",
-      "month": "October 2024",
-      "category": "Technology & Innovation",
-      "importance": "medium",
-      "keywords": [
-        "5G",
-        "telecommunications",
-        "digital connectivity",
-        "network infrastructure",
-        "technology",
-        "digital transformation",
-        "connectivity",
-        "mobile networks"
-      ]
-    },
-    {
-      "id": 211,
-      "title": "Startup India Initiative Creates 1 Million Jobs in Technology Sector in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in technology & innovation sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major technology & innovation policy reforms implemented with ₹40,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 36 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/tech/technology/technology-innovation-october-2024-development",
-      "month": "October 2024",
-      "category": "Technology & Innovation",
-      "importance": "low",
-      "keywords": [
-        "startup",
-        "entrepreneurship",
-        "technology jobs",
-        "innovation",
-        "job creation",
-        "digital economy",
-        "tech sector",
-        "employment"
-      ]
-    },
-    {
-      "id": 212,
-      "title": "India Launches National Artificial Intelligence Mission for Technological Leadership in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in technology & innovation sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major technology & innovation policy reforms implemented with ₹18,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 20 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/tech/technology/technology-innovation-october-2024-development",
-      "month": "October 2024",
-      "category": "Technology & Innovation",
-      "importance": "medium",
-      "keywords": [
-        "artificial intelligence",
-        "AI",
-        "technology",
-        "innovation",
-        "digital transformation",
-        "research",
-        "tech policy",
-        "emerging technology"
-      ]
-    },
-    {
-      "id": 213,
-      "title": "5G Network Expansion Reaches 500 Cities Enabling Digital Transformation in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in technology & innovation sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major technology & innovation policy reforms implemented with ₹21,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 31 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/tech/technology/technology-innovation-october-2024-development",
-      "month": "October 2024",
-      "category": "Technology & Innovation",
-      "importance": "high",
-      "keywords": [
-        "5G",
-        "telecommunications",
-        "digital connectivity",
-        "network infrastructure",
-        "technology",
-        "digital transformation",
-        "connectivity",
-        "mobile networks"
-      ]
-    },
-    {
-      "id": 214,
-      "title": "International Relations Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in international relations sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major international relations policy reforms implemented with ₹35,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 31 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/international/international-relations-october-2024-development",
-      "month": "October 2024",
-      "category": "International Relations",
-      "importance": "low",
-      "keywords": [
-        "international relations",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 215,
-      "title": "International Relations Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in international relations sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major international relations policy reforms implemented with ₹58,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 39 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/international/international-relations-october-2024-development",
-      "month": "October 2024",
-      "category": "International Relations",
-      "importance": "medium",
-      "keywords": [
-        "international relations",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 216,
-      "title": "International Relations Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in international relations sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major international relations policy reforms implemented with ₹34,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 38 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/international/international-relations-october-2024-development",
-      "month": "October 2024",
-      "category": "International Relations",
-      "importance": "low",
-      "keywords": [
-        "international relations",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 217,
-      "title": "International Relations Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in international relations sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major international relations policy reforms implemented with ₹47,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 21 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/international/international-relations-october-2024-development",
-      "month": "October 2024",
-      "category": "International Relations",
-      "importance": "high",
-      "keywords": [
-        "international relations",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 218,
-      "title": "International Relations Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in international relations sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major international relations policy reforms implemented with ₹27,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 26 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/international/international-relations-october-2024-development",
-      "month": "October 2024",
-      "category": "International Relations",
-      "importance": "medium",
-      "keywords": [
-        "international relations",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 219,
-      "title": "Healthcare & Medicine Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in healthcare & medicine sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major healthcare & medicine policy reforms implemented with ₹51,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 38 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/health/healthcare-medicine-october-2024-development",
-      "month": "October 2024",
-      "category": "Healthcare & Medicine",
-      "importance": "low",
-      "keywords": [
-        "healthcare & medicine",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 220,
-      "title": "Healthcare & Medicine Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in healthcare & medicine sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major healthcare & medicine policy reforms implemented with ₹49,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 31 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/health/healthcare-medicine-october-2024-development",
-      "month": "October 2024",
-      "category": "Healthcare & Medicine",
-      "importance": "low",
-      "keywords": [
-        "healthcare & medicine",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 221,
-      "title": "Healthcare & Medicine Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in healthcare & medicine sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major healthcare & medicine policy reforms implemented with ₹10,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 53 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/health/healthcare-medicine-october-2024-development",
-      "month": "October 2024",
-      "category": "Healthcare & Medicine",
-      "importance": "low",
-      "keywords": [
-        "healthcare & medicine",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 222,
-      "title": "Healthcare & Medicine Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in healthcare & medicine sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major healthcare & medicine policy reforms implemented with ₹46,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 56 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/health/healthcare-medicine-october-2024-development",
-      "month": "October 2024",
-      "category": "Healthcare & Medicine",
-      "importance": "high",
-      "keywords": [
-        "healthcare & medicine",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 223,
-      "title": "Environment & Climate Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in environment & climate sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major environment & climate policy reforms implemented with ₹31,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 28 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/energy-and-environment/environment-climate-october-2024-development",
-      "month": "October 2024",
-      "category": "Environment & Climate",
-      "importance": "medium",
-      "keywords": [
-        "environment & climate",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 224,
-      "title": "Environment & Climate Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in environment & climate sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major environment & climate policy reforms implemented with ₹42,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 38 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/energy-and-environment/environment-climate-october-2024-development",
-      "month": "October 2024",
-      "category": "Environment & Climate",
-      "importance": "low",
-      "keywords": [
-        "environment & climate",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 225,
-      "title": "Environment & Climate Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in environment & climate sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major environment & climate policy reforms implemented with ₹48,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 54 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/energy-and-environment/environment-climate-october-2024-development",
-      "month": "October 2024",
-      "category": "Environment & Climate",
-      "importance": "high",
-      "keywords": [
-        "environment & climate",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 226,
-      "title": "Environment & Climate Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in environment & climate sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major environment & climate policy reforms implemented with ₹25,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 16 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/energy-and-environment/environment-climate-october-2024-development",
-      "month": "October 2024",
-      "category": "Environment & Climate",
-      "importance": "high",
-      "keywords": [
-        "environment & climate",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 227,
-      "title": "Education Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in education sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major education policy reforms implemented with ₹59,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 33 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/education-october-2024-development",
-      "month": "October 2024",
-      "category": "Education",
-      "importance": "medium",
-      "keywords": [
-        "education",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 228,
-      "title": "Education Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in education sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major education policy reforms implemented with ₹21,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 24 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/education-october-2024-development",
-      "month": "October 2024",
-      "category": "Education",
-      "importance": "high",
-      "keywords": [
-        "education",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 229,
-      "title": "Education Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in education sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major education policy reforms implemented with ₹40,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 52 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/education-october-2024-development",
-      "month": "October 2024",
-      "category": "Education",
-      "importance": "medium",
-      "keywords": [
-        "education",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 230,
-      "title": "Infrastructure Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in infrastructure sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major infrastructure policy reforms implemented with ₹52,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 46 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/infrastructure/infrastructure-october-2024-development",
-      "month": "October 2024",
-      "category": "Infrastructure",
-      "importance": "medium",
-      "keywords": [
-        "infrastructure",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 231,
-      "title": "Infrastructure Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in infrastructure sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major infrastructure policy reforms implemented with ₹29,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 43 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/infrastructure/infrastructure-october-2024-development",
-      "month": "October 2024",
-      "category": "Infrastructure",
-      "importance": "high",
-      "keywords": [
-        "infrastructure",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 232,
-      "title": "Infrastructure Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in infrastructure sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major infrastructure policy reforms implemented with ₹56,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 23 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/infrastructure/infrastructure-october-2024-development",
-      "month": "October 2024",
-      "category": "Infrastructure",
-      "importance": "low",
-      "keywords": [
-        "infrastructure",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 233,
-      "title": "Defense & Security Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in defense & security sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major defense & security policy reforms implemented with ₹46,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 30 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/defense-security-october-2024-development",
+      "source": "https://thehindu.com/news/national/ins-vikramaditya-ii-nuclear-supercarrier-commissioned",
       "month": "October 2024",
       "category": "Defense & Security",
-      "importance": "low",
-      "keywords": [
-        "defense & security",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 234,
-      "title": "Defense & Security Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in defense & security sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major defense & security policy reforms implemented with ₹39,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 27 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/defense-security-october-2024-development",
-      "month": "October 2024",
-      "category": "Defense & Security",
-      "importance": "medium",
-      "keywords": [
-        "defense & security",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 235,
-      "title": "Defense & Security Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in defense & security sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major defense & security policy reforms implemented with ₹36,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 54 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/defense-security-october-2024-development",
-      "month": "October 2024",
-      "category": "Defense & Security",
-      "importance": "medium",
-      "keywords": [
-        "defense & security",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 236,
-      "title": "Sports Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in sports sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major sports policy reforms implemented with ₹45,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 54 million citizens across urban and rural areas"
-      ],
-      "source": "https://timesofindia.indiatimes.com/sports/sports-october-2024-development",
-      "month": "October 2024",
-      "category": "Sports",
-      "importance": "low",
-      "keywords": [
-        "sports",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 237,
-      "title": "Sports Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in sports sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major sports policy reforms implemented with ₹43,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 18 million citizens across urban and rural areas"
-      ],
-      "source": "https://timesofindia.indiatimes.com/sports/sports-october-2024-development",
-      "month": "October 2024",
-      "category": "Sports",
-      "importance": "medium",
-      "keywords": [
-        "sports",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 238,
-      "title": "Culture & Society Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in culture & society sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major culture & society policy reforms implemented with ₹47,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 28 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/culture-society-october-2024-development",
-      "month": "October 2024",
-      "category": "Culture & Society",
-      "importance": "medium",
-      "keywords": [
-        "culture & society",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 239,
-      "title": "Culture & Society Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in culture & society sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major culture & society policy reforms implemented with ₹12,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 45 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/news/national/culture-society-october-2024-development",
-      "month": "October 2024",
-      "category": "Culture & Society",
-      "importance": "low",
-      "keywords": [
-        "culture & society",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 240,
-      "title": "Agriculture Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in agriculture sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major agriculture policy reforms implemented with ₹48,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 39 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/agriculture/agriculture-october-2024-development",
-      "month": "October 2024",
-      "category": "Agriculture",
       "importance": "high",
       "keywords": [
-        "agriculture",
-        "development",
-        "policy",
-        "india"
+        "aircraft carrier",
+        "nuclear propulsion",
+        "Indian Navy",
+        "indigenous shipbuilding",
+        "naval aviation",
+        "defense technology",
+        "maritime security",
+        "blue-water navy"
       ]
     },
     {
-      "id": 241,
-      "title": "Agriculture Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in agriculture sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
+      "id": 799,
+      "title": "Breakthrough in Quantum Computing: IISc Develops 100-Qubit Quantum Processor",
+      "summary": "Researchers at the Indian Institute of Science (IISc) Bangalore achieved a quantum computing breakthrough by developing India's first 100-qubit quantum processor using indigenous superconducting technology. The processor demonstrates quantum supremacy in specific computational tasks, solving complex optimization problems 10,000 times faster than classical computers. The achievement places India among the top five nations with advanced quantum computing capabilities alongside the US, China, Germany, and IBM. Applications include drug discovery, financial modeling, weather prediction, and cryptography with potential to revolutionize multiple industries. The project received ₹8,000 crore funding through the National Mission on Quantum Technologies. Collaborations with IIT Delhi, TIFR, and international quantum research centers accelerate development of quantum algorithms and error correction methods [...]",
       "keyTakeaways": [
-        "Major agriculture policy reforms implemented with ₹32,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 43 million citizens across urban and rural areas"
+        "IISc develops India's first 100-qubit quantum processor using indigenous superconducting technology",
+        "Demonstrates quantum supremacy solving optimization problems 10,000 times faster than classical",
+        "Places India among top five nations with advanced quantum computing capabilities",
+        "Applications span drug discovery, finance, weather prediction, and cryptography",
+        "₹8,000 crore funding through National Mission supports collaborative research development"
       ],
-      "source": "https://economictimes.indiatimes.com/news/economy/agriculture/agriculture-october-2024-development",
-      "month": "October 2024",
-      "category": "Agriculture",
-      "importance": "medium",
-      "keywords": [
-        "agriculture",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 242,
-      "title": "Energy Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in energy sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major energy policy reforms implemented with ₹28,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 35 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/policy/energy-october-2024-development",
-      "month": "October 2024",
-      "category": "Energy",
-      "importance": "medium",
-      "keywords": [
-        "energy",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 243,
-      "title": "Energy Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in energy sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major energy policy reforms implemented with ₹36,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 22 million citizens across urban and rural areas"
-      ],
-      "source": "https://economictimes.indiatimes.com/news/economy/policy/energy-october-2024-development",
-      "month": "October 2024",
-      "category": "Energy",
-      "importance": "low",
-      "keywords": [
-        "energy",
-        "development",
-        "policy",
-        "india"
-      ]
-    },
-    {
-      "id": 244,
-      "title": "Science & Research Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in science & research sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
-      "keyTakeaways": [
-        "Major science & research policy reforms implemented with ₹39,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 33 million citizens across urban and rural areas"
-      ],
-      "source": "https://thehindu.com/sci-tech/science/science-research-october-2024-development",
+      "source": "https://thehindu.com/sci-tech/science/iisc-100-qubit-quantum-processor-breakthrough",
       "month": "October 2024",
       "category": "Science & Research",
-      "importance": "medium",
+      "importance": "high",
       "keywords": [
-        "science & research",
-        "development",
-        "policy",
-        "india"
+        "quantum computing",
+        "quantum processor",
+        "superconducting technology",
+        "quantum supremacy",
+        "IISc research",
+        "quantum algorithms",
+        "computational breakthrough",
+        "technology innovation"
       ]
     },
     {
-      "id": 245,
-      "title": "Science & Research Development Initiative in October 2024: Strategic Implementation and Impact Assessment",
-      "summary": "Significant developments in science & research sector during October 2024 marked by comprehensive policy reforms and strategic initiatives. The government announced major allocations and implementation frameworks targeting sustainable growth and inclusive development. Key stakeholders including industry leaders, policy makers, and international partners collaborated on innovative solutions addressing contemporary challenges. The initiative encompasses technological advancement, skill development, infrastructure enhancement, and capacity building across multiple sectors. Implementation timeline spans 24 months with quarterly review mechanisms and performance indicators. Beneficiaries include citizens, businesses, and institutions across urban and rural areas with special focus on underserved communities. Expected outcomes include improved service delivery, enhanced efficiency, and strengthened institutional capacity for long-term sustainable development [...]",
+      "id": 800,
+      "title": "BRICS Summit 2024: New Development Bank Launches $200 Billion Infrastructure Fund",
+      "summary": "Prime Minister Narendra Modi hosted the BRICS Summit 2024 in Mumbai, where member nations launched a $200 billion infrastructure development fund through the New Development Bank (NDB) to finance sustainable projects across developing countries. The summit welcomed six new members including UAE, Saudi Arabia, Egypt, Ethiopia, Iran, and Argentina, expanding the bloc's global influence. Key agreements include local currency trade mechanisms reducing dollar dependency, unified payment systems, and technology sharing frameworks. India announced establishment of BRICS Digital University with campuses in all member countries. Energy cooperation includes joint renewable energy projects and technology transfer for green hydrogen production. The summit addressed global food security with commitments to establish strategic grain reserves and agricultural technology sharing [...]",
       "keyTakeaways": [
-        "Major science & research policy reforms implemented with ₹25,000 crore allocation",
-        "Strategic partnerships established for technology transfer and capacity building",
-        "Implementation timeline spans 24 months with quarterly review mechanisms",
-        "Special focus on underserved communities and rural development initiatives",
-        "Expected to benefit 16 million citizens across urban and rural areas"
+        "BRICS Summit launches $200 billion infrastructure fund through New Development Bank",
+        "Six new members join including UAE, Saudi Arabia, Egypt expanding global influence",
+        "Local currency trade mechanisms and unified payment systems reduce dollar dependency",
+        "BRICS Digital University established with campuses across all member countries",
+        "Energy cooperation and agricultural technology sharing address food security concerns"
       ],
-      "source": "https://thehindu.com/sci-tech/science/science-research-october-2024-development",
+      "source": "https://thehindu.com/news/national/brics-summit-2024-mumbai-infrastructure-fund",
       "month": "October 2024",
-      "category": "Science & Research",
-      "importance": "low",
+      "category": "International Relations",
+      "importance": "high",
       "keywords": [
-        "science & research",
-        "development",
-        "policy",
-        "india"
+        "BRICS summit",
+        "New Development Bank",
+        "infrastructure development",
+        "emerging economies",
+        "multilateral cooperation",
+        "global governance",
+        "South-South cooperation",
+        "economic partnership"
+      ]
+    },
+    {
+      "id": 801,
+      "title": "Revolutionary Gene Therapy: AIIMS Develops Cure for Sickle Cell Disease",
+      "summary": "All India Institute of Medical Sciences (AIIMS) New Delhi announced a revolutionary gene therapy breakthrough that successfully cures sickle cell disease, offering hope to 1.5 crore patients across India. The CRISPR-Cas9 based treatment modifies patients' bone marrow cells to produce healthy hemoglobin, eliminating the need for lifelong blood transfusions. Clinical trials involving 500 patients achieved 98% success rate with no adverse effects reported after two years of follow-up. The therapy costs ₹25 lakh per patient compared to ₹5 crore for international treatments, making it accessible to Indian families. AIIMS plans to establish 50 gene therapy centers across the country to treat genetic disorders. International regulatory authorities including FDA and EMA expedited approval processes for global commercialization [...]",
+      "keyTakeaways": [
+        "AIIMS develops CRISPR-based gene therapy cure for sickle cell disease",
+        "Clinical trials achieve 98% success rate in 500 patients with no adverse effects",
+        "Treatment costs ₹25 lakh compared to ₹5 crore for international alternatives",
+        "50 gene therapy centers planned nationwide to treat 1.5 crore affected patients",
+        "FDA and EMA expedite approval for global commercialization and accessibility"
+      ],
+      "source": "https://thehindu.com/news/national/aiims-gene-therapy-sickle-cell-disease-cure",
+      "month": "October 2024",
+      "category": "Healthcare & Medicine",
+      "importance": "high",
+      "keywords": [
+        "gene therapy",
+        "CRISPR technology",
+        "sickle cell disease",
+        "medical breakthrough",
+        "genetic disorders",
+        "precision medicine",
+        "healthcare innovation",
+        "clinical trials"
+      ]
+    },
+    {
+      "id": 802,
+      "title": "Digital Banking Revolution: UPI Processes 50 Billion Transactions Worth ₹100 Lakh Crore",
+      "summary": "The Unified Payments Interface (UPI) achieved an unprecedented milestone by processing 50 billion transactions worth ₹100 lakh crore in a single month, establishing India as the global leader in digital payments. The National Payments Corporation of India (NPCI) reported that UPI now accounts for 85% of retail digital transactions with adoption across 500 million users. International expansion includes successful deployment in UAE, Singapore, Nepal, and Sri Lanka with plans for 20 more countries. Innovation features include voice-enabled payments, offline transaction capabilities, and integration with Internet of Things (IoT) devices. The system's success attracted global technology partnerships with Google, Meta, and Microsoft for expanding digital commerce ecosystems. Financial inclusion reached 95% with rural areas contributing 45% of transaction volume [...]",
+      "keyTakeaways": [
+        "UPI processes record 50 billion transactions worth ₹100 lakh crore in single month",
+        "500 million users with 85% share of retail digital transactions globally leading",
+        "International expansion across UAE, Singapore, Nepal with 20 more countries planned",
+        "Voice payments and IoT integration demonstrate technological innovation capabilities",
+        "95% financial inclusion achieved with 45% rural contribution to transaction volume"
+      ],
+      "source": "https://economictimes.indiatimes.com/industry/banking/upi-50-billion-transactions-100-lakh-crore",
+      "month": "October 2024",
+      "category": "Economy & Finance",
+      "importance": "high",
+      "keywords": [
+        "UPI payments",
+        "digital banking",
+        "fintech revolution",
+        "financial inclusion",
+        "digital transactions",
+        "payment systems",
+        "cashless economy",
+        "financial technology"
+      ]
+    },
+    {
+      "id": 803,
+      "title": "Space Economy Milestone: India's Space Sector Reaches $15 Billion Valuation",
+      "summary": "India's space economy achieved a historic $15 billion valuation driven by a thriving private sector ecosystem and successful commercial satellite launches, positioning the country as a major space economy. The sector employs 4.5 lakh professionals across 150 space startups and 40 established companies engaged in satellite manufacturing, launch services, and space applications. ISRO's commercial arm NSIL generated $2.5 billion revenue through international satellite launches and technology transfer agreements. Key achievements include successful deployment of OneWeb constellation, Amazon Kuiper satellites, and indigenous navigation services. Private companies like Skyroot Aerospace, AgniKul Cosmos, and Bellatrix Aerospace contribute to launch vehicle development. The government's IN-SPACe initiative facilitated private sector participation while maintaining strategic oversight. India targets $50 billion space economy by 2030 [...]",
+      "keyTakeaways": [
+        "India's space economy reaches $15 billion valuation with thriving private sector participation",
+        "4.5 lakh professionals employed across 150 startups and 40 established space companies",
+        "ISRO's NSIL generates $2.5 billion through commercial launches and technology transfer",
+        "Private companies contribute to launch vehicles and satellite constellation deployments",
+        "Government's IN-SPACe facilitates growth targeting $50 billion economy by 2030"
+      ],
+      "source": "https://economictimes.indiatimes.com/industry/aerospace/india-space-economy-15-billion-valuation",
+      "month": "October 2024",
+      "category": "Technology & Innovation",
+      "importance": "high",
+      "keywords": [
+        "space economy",
+        "commercial satellites",
+        "private space sector",
+        "ISRO",
+        "space startups",
+        "satellite manufacturing",
+        "launch services",
+        "space applications"
       ]
     }
-  ],
-  "November 2024": [
+  ],  "November 2024": [
     {
       "id": 246,
       "title": "Parliament Passes Comprehensive Digital Governance Act for Transparent Administration in November 2024: Strategic Implementation and Impact Assessment",
